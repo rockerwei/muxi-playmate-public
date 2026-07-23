@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="圖片">
+  <title>圖片</title>
+  <rect x="10" y="10" width="100" height="100" rx="20" fill="#E8E0F7"/>
+  <rect x="20" y="20" width="80" height="80" rx="14" fill="#C4B5FD"/>
+  <circle cx="45" cy="48" r="10" fill="#8B5CF6"/>
+  <polygon points="20,90 50,55 70,75 85,60 100,90" fill="#7C3AED"/>
+  <circle cx="80" cy="40" r="7" fill="#DDD6FE"/>
+</svg>

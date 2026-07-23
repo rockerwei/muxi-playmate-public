@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻橘色小貓">
+  <title>Cat</title>
+  <!-- shadow -->
+  <ellipse cx="60" cy="108" rx="26" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- body -->
+  <ellipse cx="60" cy="82" rx="26" ry="24" fill="#FF8A65"/>
+  <!-- head -->
+  <circle cx="60" cy="52" r="26" fill="#FF8A65"/>
+  <!-- left ear -->
+  <polygon points="36,34 30,14 50,28" fill="#FF8A65"/>
+  <polygon points="37,32 33,18 47,28" fill="#FFCCBC"/>
+  <!-- right ear -->
+  <polygon points="84,34 90,14 70,28" fill="#FF8A65"/>
+  <polygon points="83,32 87,18 73,28" fill="#FFCCBC"/>
+  <!-- face -->
+  <!-- eyes -->
+  <ellipse cx="50" cy="50" rx="6" ry="7" fill="#424242"/>
+  <ellipse cx="70" cy="50" rx="6" ry="7" fill="#424242"/>
+  <circle cx="52" cy="48" r="2" fill="white"/>
+  <circle cx="72" cy="48" r="2" fill="white"/>
+  <!-- nose -->
+  <polygon points="60,59 57,63 63,63" fill="#E91E63"/>
+  <!-- mouth -->
+  <path d="M57 63 C56 66 54 67 52 66" stroke="#795548" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M63 63 C64 66 66 67 68 66" stroke="#795548" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- whiskers left -->
+  <line x1="32" y1="60" x2="52" y2="62" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="32" y1="65" x2="52" y2="64" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- whiskers right -->
+  <line x1="88" y1="60" x2="68" y2="62" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="88" y1="65" x2="68" y2="64" stroke="#BDBDBD" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- tail -->
+  <path d="M82 96 C96 90 104 80 96 68" stroke="#FF8A65" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M82 96 C96 90 104 80 96 68" stroke="#FFCCBC" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- tummy -->
+  <ellipse cx="60" cy="86" rx="14" ry="12" fill="#FFCCBC"/>
+</svg>
