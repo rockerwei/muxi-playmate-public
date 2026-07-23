@@ -2,7 +2,7 @@
   "name": "muxi-playmate.mobileconfig",
   "environment": "production",
   "version": "1.0.0",
-  "sha256": "6bd881b88efb06b264d116d03ec3c3044b369a6902b657afe859595414e84292",
+  "sha256": "714777641b3aeeacc92e74077915c8d74013c4eac533eddb3ad65982861b8d8a",
   "generatedAt": "2026-07-23T00:00:00.000Z",
   "appUrl": "https://playmate.muxilabs.com/",
   "profileUrl": "https://playmate.muxilabs.com/profiles/muxi-playmate.mobileconfig",
