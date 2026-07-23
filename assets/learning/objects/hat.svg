@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一頂帽子">
+  <title>Hat</title>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- brim shadow -->
+  <ellipse cx="60" cy="84" rx="46" ry="10" fill="#A030C0" opacity="0.25"/>
+  <!-- hat brim -->
+  <ellipse cx="60" cy="82" rx="46" ry="10" fill="#C040E0"/>
+  <!-- hat body -->
+  <rect x="28" y="28" width="64" height="56" rx="8" fill="#C040E0"/>
+  <!-- hat body highlight band -->
+  <rect x="28" y="72" width="64" height="14" rx="0" fill="#A030C0"/>
+  <rect x="28" y="70" width="64" height="6" rx="0" fill="#D860F0"/>
+  <!-- color band -->
+  <rect x="28" y="66" width="64" height="8" rx="0" fill="#FFD700"/>
+  <!-- polka dots on hat -->
+  <circle cx="42" cy="44" r="5" fill="#FFD700"/>
+  <circle cx="60" cy="38" r="5" fill="#FF6090"/>
+  <circle cx="78" cy="44" r="5" fill="#60D0FF"/>
+  <circle cx="48" cy="58" r="4" fill="#FF6090"/>
+  <circle cx="72" cy="56" r="4" fill="#60D0FF"/>
+  <circle cx="60" cy="56" r="4" fill="#FFD700"/>
+  <!-- hat top -->
+  <ellipse cx="60" cy="28" rx="32" ry="10" fill="#A030C0"/>
+  <!-- star on top -->
+  <polygon points="60,10 63,22 75,22 65,29 69,41 60,34 51,41 55,29 45,22 57,22" fill="#FFD700"/>
+</svg>

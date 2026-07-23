@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻山羊">
+  <title>Goat</title>
+  <ellipse cx="60" cy="110" rx="28" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- horns -->
+  <path d="M48 28 Q42 14 50 10 Q54 18 52 28" fill="#8B7355"/>
+  <path d="M72 28 Q78 14 70 10 Q66 18 68 28" fill="#8B7355"/>
+  <!-- ears -->
+  <ellipse cx="36" cy="38" rx="10" ry="7" fill="#D4C8B0" transform="rotate(-30 36 38)"/>
+  <ellipse cx="84" cy="38" rx="10" ry="7" fill="#D4C8B0" transform="rotate(30 84 38)"/>
+  <!-- body -->
+  <ellipse cx="60" cy="83" rx="30" ry="22" fill="#F0EAD8"/>
+  <!-- head -->
+  <ellipse cx="60" cy="44" rx="22" ry="20" fill="#F0EAD8"/>
+  <!-- beard -->
+  <ellipse cx="60" cy="63" rx="8" ry="6" fill="#E8E0CC"/>
+  <!-- eyes -->
+  <ellipse cx="50" cy="40" rx="4" ry="5" fill="#fff"/>
+  <ellipse cx="70" cy="40" rx="4" ry="5" fill="#fff"/>
+  <ellipse cx="50" cy="41" rx="2" ry="3" fill="#3a3020"/>
+  <ellipse cx="70" cy="41" rx="2" ry="3" fill="#3a3020"/>
+  <!-- nose -->
+  <ellipse cx="60" cy="54" rx="8" ry="6" fill="#D4B8A0"/>
+  <circle cx="57" cy="54" r="2" fill="#8B6A58"/>
+  <circle cx="63" cy="54" r="2" fill="#8B6A58"/>
+  <!-- legs -->
+  <rect x="38" y="100" width="10" height="12" rx="4" fill="#E8E0CC"/>
+  <rect x="52" y="100" width="10" height="12" rx="4" fill="#E8E0CC"/>
+  <rect x="58" y="100" width="10" height="12" rx="4" fill="#E8E0CC"/>
+  <rect x="72" y="100" width="10" height="12" rx="4" fill="#E8E0CC"/>
+  <!-- hooves -->
+  <rect x="38" y="109" width="10" height="4" rx="2" fill="#6B5B45"/>
+  <rect x="52" y="109" width="10" height="4" rx="2" fill="#6B5B45"/>
+  <rect x="58" y="109" width="10" height="4" rx="2" fill="#6B5B45"/>
+  <rect x="72" y="109" width="10" height="4" rx="2" fill="#6B5B45"/>
+</svg>

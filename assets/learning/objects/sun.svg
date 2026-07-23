@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一顆太陽">
+  <title>Sun</title>
+  <!-- rays -->
+  <line x1="60" y1="8" x2="60" y2="22" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="60" y1="98" x2="60" y2="112" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="8" y1="60" x2="22" y2="60" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="98" y1="60" x2="112" y2="60" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="22" y1="22" x2="31" y2="31" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="89" y1="89" x2="98" y2="98" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="98" y1="22" x2="89" y2="31" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <line x1="22" y1="98" x2="31" y2="89" stroke="#FFD700" stroke-width="6" stroke-linecap="round"/>
+  <!-- diagonal rays 45° offset -->
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(22.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(67.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(112.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(157.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(202.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(247.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(292.5 60 60)"/>
+  <line x1="60" y1="8" x2="72" y2="14" stroke="#FFD700" stroke-width="4" stroke-linecap="round" transform="rotate(337.5 60 60)"/>
+  <!-- sun body -->
+  <circle cx="60" cy="60" r="30" fill="#FFD700"/>
+  <!-- glow -->
+  <circle cx="60" cy="60" r="28" fill="#FFE840"/>
+  <!-- highlight -->
+  <ellipse cx="48" cy="48" rx="10" ry="7" fill="rgba(255,255,255,0.30)" transform="rotate(-20 48 48)"/>
+  <!-- smile face -->
+  <circle cx="50" cy="56" r="4" fill="#E8A800"/>
+  <circle cx="70" cy="56" r="4" fill="#E8A800"/>
+  <circle cx="51" cy="55" r="2" fill="#2a1a00"/>
+  <circle cx="71" cy="55" r="2" fill="#2a1a00"/>
+  <path d="M50 68 Q60 76 70 68" stroke="#E8A800" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一個風箏">
+  <title>Kite</title>
+  <!-- kite string tail -->
+  <path d="M60 88 Q68 94 64 100 Q58 106 64 112" stroke="#8B7040" stroke-width="2" fill="none"/>
+  <!-- tail bows -->
+  <ellipse cx="68" cy="96" rx="6" ry="3" fill="#FF6090" transform="rotate(20 68 96)"/>
+  <ellipse cx="62" cy="107" rx="6" ry="3" fill="#FFD700" transform="rotate(-15 62 107)"/>
+  <!-- string to hand -->
+  <path d="M60 88 Q86 95 100 108" stroke="#8B7040" stroke-width="2" fill="none"/>
+  <!-- kite body - 4 sections -->
+  <!-- top-left: red -->
+  <path d="M60 14 L20 62 L60 52 Z" fill="#E03030"/>
+  <!-- top-right: blue -->
+  <path d="M60 14 L100 62 L60 52 Z" fill="#3060E0"/>
+  <!-- bottom-left: yellow -->
+  <path d="M20 62 L60 52 L60 88 Z" fill="#FFD700"/>
+  <!-- bottom-right: green -->
+  <path d="M100 62 L60 52 L60 88 Z" fill="#30B030"/>
+  <!-- kite outline -->
+  <path d="M60 14 L20 62 L60 88 L100 62 Z" stroke="#fff" stroke-width="2" fill="none"/>
+  <!-- center lines -->
+  <line x1="60" y1="14" x2="60" y2="88" stroke="#fff" stroke-width="2"/>
+  <line x1="20" y1="62" x2="100" y2="62" stroke="#fff" stroke-width="2"/>
+  <!-- center dot -->
+  <circle cx="60" cy="52" r="4" fill="#fff"/>
+</svg>

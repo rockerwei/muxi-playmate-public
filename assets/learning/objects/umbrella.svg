@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一把雨傘">
+  <title>Umbrella</title>
+  <ellipse cx="60" cy="110" rx="16" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- handle -->
+  <path d="M60 78 L60 104 Q60 112 52 112 Q44 112 44 104" stroke="#6B4423" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- canopy sections (6 alternating colors) -->
+  <!-- section 1: red -->
+  <path d="M60 18 Q30 22 16 52 L60 52 Z" fill="#E03030"/>
+  <!-- section 2: yellow -->
+  <path d="M60 18 Q50 18 36 36 Q28 46 24 52 L60 52 Z" fill="#FFD700"/>
+  <!-- Wait, let me redo this with proper pie slices -->
+  <!-- 6 equal sections around the arc -->
+  <path d="M60 22 A38 38 0 0 0 22 60 L60 60 Z" fill="#E03030"/>
+  <path d="M60 22 A38 38 0 0 1 98 60 L60 60 Z" fill="#E03030" opacity="0"/>
+  <!-- Actually let me just do the umbrella top as panels -->
+  <!-- Top arc and canopy -->
+  <path d="M18 60 Q20 22 60 20 Q100 22 102 60 Z" fill="#3060E0"/>
+  <!-- Panel dividers and alternate colors -->
+  <path d="M60 20 Q50 22 34 38 Q24 50 22 60 L60 60 Z" fill="#E03030"/>
+  <path d="M60 20 Q68 22 82 36 Q94 50 98 60 L60 60 Z" fill="#FFD700"/>
+  <path d="M60 20 Q60 22 48 46 Q44 56 42 60 L60 60 Z" fill="#30B030"/>
+  <path d="M60 20 Q62 22 74 46 Q78 56 78 60 L60 60 Z" fill="#FF60A0"/>
+  <!-- top knob -->
+  <circle cx="60" cy="20" r="5" fill="#FFD700"/>
+  <!-- edge scallops -->
+  <circle cx="20" cy="60" r="5" fill="#f5f5f5"/>
+  <circle cx="36" cy="82" r="5" fill="#f5f5f5"/>
+  <circle cx="60" cy="88" r="5" fill="#f5f5f5"/>
+  <circle cx="84" cy="82" r="5" fill="#f5f5f5"/>
+  <circle cx="100" cy="60" r="5" fill="#f5f5f5"/>
+  <!-- rain drops -->
+  <ellipse cx="24" cy="74" rx="2.5" ry="4" fill="#80C0FF" transform="rotate(-10 24 74)"/>
+  <ellipse cx="38" cy="96" rx="2.5" ry="4" fill="#80C0FF" transform="rotate(5 38 96)"/>
+  <ellipse cx="94" cy="74" rx="2.5" ry="4" fill="#80C0FF" transform="rotate(10 94 74)"/>
+  <ellipse cx="80" cy="96" rx="2.5" ry="4" fill="#80C0FF" transform="rotate(-5 80 96)"/>
+</svg>

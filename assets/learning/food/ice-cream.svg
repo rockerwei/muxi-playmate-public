@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一支冰淇淋">
+  <title>Ice Cream</title>
+  <ellipse cx="60" cy="108" rx="18" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- cone -->
+  <path d="M44 72 L76 72 L60 108 Z" fill="#D4934A"/>
+  <path d="M44 72 L76 72 L60 108 Z" fill="none" stroke="#B87A38" stroke-width="0"/>
+  <!-- cone lines -->
+  <line x1="60" y1="72" x2="52" y2="92" stroke="#B87A38" stroke-width="1.5"/>
+  <line x1="60" y1="72" x2="68" y2="92" stroke="#B87A38" stroke-width="1.5"/>
+  <line x1="50" y1="80" x2="70" y2="80" stroke="#B87A38" stroke-width="1.5"/>
+  <line x1="48" y1="88" x2="72" y2="88" stroke="#B87A38" stroke-width="1.5"/>
+  <!-- cone texture lines vertical -->
+  <line x1="52" y1="72" x2="44" y2="90" stroke="#C88040" stroke-width="1" opacity="0.5"/>
+  <line x1="68" y1="72" x2="76" y2="90" stroke="#C88040" stroke-width="1" opacity="0.5"/>
+  <!-- ice cream scoop 1 (bottom, chocolate/strawberry) -->
+  <circle cx="60" cy="62" r="18" fill="#F48080"/>
+  <!-- ice cream scoop 2 (top, vanilla) -->
+  <circle cx="60" cy="44" r="16" fill="#FFF8DC"/>
+  <!-- top scoop blush -->
+  <ellipse cx="52" cy="40" rx="5" ry="3" fill="#ffe0e0" opacity="0.7"/>
+  <!-- sprinkles on top -->
+  <rect x="54" y="36" width="6" height="3" rx="1.5" fill="#FF6060" transform="rotate(20 57 37)"/>
+  <rect x="62" y="34" width="6" height="3" rx="1.5" fill="#60A0FF" transform="rotate(-15 65 35)"/>
+  <rect x="58" y="42" width="6" height="3" rx="1.5" fill="#60CC60" transform="rotate(35 61 43)"/>
+  <rect x="50" y="44" width="5" height="3" rx="1.5" fill="#FFD700" transform="rotate(-25 52 45)"/>
+  <!-- chocolate drip -->
+  <path d="M70 56 Q74 62 72 68" stroke="#C04040" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
