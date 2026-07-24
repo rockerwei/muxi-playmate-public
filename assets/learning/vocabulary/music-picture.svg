@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Music picture（音樂圖片）對應的幼兒學習插圖">
+  <title>Music picture</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="42" cy="78" rx="16" ry="12" fill="#EC407A"/>
+    <rect x="54" y="30" width="6" height="48" fill="#FDD835"/>
+    <path d="M60 30 Q78 24 84 34 Q78 42 60 36" fill="#FDD835"/>
+    <ellipse cx="40" cy="72" rx="6" ry="4" fill="rgba(255,255,255,0.28)"/></g><rect x="70" y="16" width="36" height="28" rx="3" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/><circle cx="82" cy="28" r="5" fill="#60A5FA"/><path d="M74 38 L84 30 L92 36 L98 32 L102 38 Z" fill="#34D399"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Oval card（橢圓形卡）對應的幼兒學習插圖">
+  <title>Oval card</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="30" y="34" width="60" height="52" rx="8" fill="#6D4C41" stroke="#E53935" stroke-width="3"/>
+    <ellipse cx="42" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/></g><rect x="72" y="18" width="34" height="26" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/><rect x="76" y="24" width="18" height="4" rx="2" fill="#94A3B8"/><rect x="76" y="32" width="24" height="3" rx="1.5" fill="#CBD5E1"/>
+</svg>

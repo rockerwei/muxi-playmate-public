@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Puzzle corner（拼圖角落）對應的幼兒學習插圖">
+  <title>Puzzle corner</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="54" y="24" width="12" height="56" rx="4" fill="#1E88E5"/>
+    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#FB8C00"/>
+    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/></g><path d="M86 18 H104 V36" fill="none" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/><circle cx="92" cy="24" r="3" fill="#FBBF24"/>
+</svg>

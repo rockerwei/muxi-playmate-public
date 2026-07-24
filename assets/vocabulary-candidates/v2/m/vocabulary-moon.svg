@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一輪月亮">
+  <title>Moon</title>
+  <!-- stars -->
+  <circle cx="14" cy="22" r="3" fill="#FFE066"/>
+  <circle cx="100" cy="18" r="2.5" fill="#FFE066"/>
+  <circle cx="108" cy="40" r="2" fill="#FFE066"/>
+  <circle cx="10" cy="50" r="2" fill="#FFE066"/>
+  <circle cx="96" cy="65" r="2.5" fill="#FFE066"/>
+  <!-- crescent moon -->
+  <circle cx="62" cy="60" r="44" fill="#FFD700"/>
+  <circle cx="80" cy="46" r="36" fill="#1a2040"/>
+  <!-- star on moon surface (decorative) -->
+  <circle cx="44" cy="72" r="4" fill="#FFE066" opacity="0.6"/>
+  <circle cx="34" cy="52" r="3" fill="#FFE066" opacity="0.4"/>
+  <circle cx="52" cy="36" r="2.5" fill="#FFE066" opacity="0.5"/>
+  <!-- crescent highlight -->
+  <path d="M26 44 Q20 60 30 76" stroke="#FFE866" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <!-- moon surface shading -->
+  <ellipse cx="48" cy="68" rx="10" ry="7" fill="#E8B800" opacity="0.3" transform="rotate(-15 48 68)"/>
+  <ellipse cx="38" cy="54" rx="8" ry="5" fill="#E8B800" opacity="0.2"/>
+  <!-- face on moon (cute) -->
+  <circle cx="44" cy="56" r="4" fill="#E8A800"/>
+  <circle cx="40" cy="70" r="3" fill="#E8A800"/>
+  <circle cx="54" cy="80" r="3.5" fill="#E8A800"/>
+</svg>

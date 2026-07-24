@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一道彩虹">
+  <title>Rainbow</title>
+  <!-- clouds left -->
+  <ellipse cx="16" cy="82" rx="16" ry="12" fill="#f0f0f0"/>
+  <ellipse cx="26" cy="76" rx="14" ry="10" fill="#f0f0f0"/>
+  <ellipse cx="36" cy="80" rx="12" ry="10" fill="#f0f0f0"/>
+  <!-- clouds right -->
+  <ellipse cx="104" cy="82" rx="16" ry="12" fill="#f0f0f0"/>
+  <ellipse cx="94" cy="76" rx="14" ry="10" fill="#f0f0f0"/>
+  <ellipse cx="84" cy="80" rx="12" ry="10" fill="#f0f0f0"/>
+  <!-- rainbow arcs (outermost = red, innermost = violet) -->
+  <!-- red -->
+  <path d="M14 80 Q60 8 106 80" stroke="#E03030" stroke-width="9" fill="none"/>
+  <!-- orange -->
+  <path d="M18 80 Q60 14 102 80" stroke="#F07820" stroke-width="9" fill="none"/>
+  <!-- yellow -->
+  <path d="M22 80 Q60 20 98 80" stroke="#FFD700" stroke-width="9" fill="none"/>
+  <!-- green -->
+  <path d="M26 80 Q60 26 94 80" stroke="#30B030" stroke-width="9" fill="none"/>
+  <!-- blue -->
+  <path d="M30 80 Q60 32 90 80" stroke="#3060E0" stroke-width="9" fill="none"/>
+  <!-- violet -->
+  <path d="M34 80 Q60 38 86 80" stroke="#9030D0" stroke-width="9" fill="none"/>
+  <!-- sun rays above -->
+  <circle cx="60" cy="18" r="8" fill="#FFD700" opacity="0.6"/>
+  <circle cx="60" cy="18" r="5" fill="#FFE840"/>
+  <!-- raindrops -->
+  <ellipse cx="30" cy="94" rx="3" ry="5" fill="#80C0FF" transform="rotate(-10 30 94)"/>
+  <ellipse cx="42" cy="98" rx="3" ry="5" fill="#80C0FF" transform="rotate(5 42 98)"/>
+  <ellipse cx="90" cy="94" rx="3" ry="5" fill="#80C0FF" transform="rotate(10 90 94)"/>
+</svg>

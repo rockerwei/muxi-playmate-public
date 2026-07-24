@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一輛綠色小火車">
+  <title>Train</title>
+  <!-- shadow -->
+  <ellipse cx="60" cy="110" rx="46" ry="5" fill="rgba(0,0,0,0.12)"/>
+  <!-- locomotive body -->
+  <rect x="16" y="58" width="58" height="40" rx="8" fill="#388E3C"/>
+  <!-- cabin top -->
+  <rect x="20" y="42" width="44" height="20" rx="6" fill="#2E7D32"/>
+  <!-- front boiler -->
+  <ellipse cx="74" cy="78" rx="16" ry="18" fill="#43A047"/>
+  <!-- chimney -->
+  <rect x="36" y="30" width="10" height="16" rx="4" fill="#2E7D32"/>
+  <ellipse cx="41" cy="30" rx="7" ry="4" fill="#1B5E20"/>
+  <!-- smoke -->
+  <circle cx="41" cy="22" r="7" fill="#E0E0E0" opacity="0.8"/>
+  <circle cx="47" cy="14" r="5" fill="#E0E0E0" opacity="0.6"/>
+  <circle cx="36" cy="12" r="4" fill="#E0E0E0" opacity="0.5"/>
+  <!-- cab window -->
+  <rect x="24" y="46" width="16" height="12" rx="4" fill="#90CAF9"/>
+  <rect x="44" y="46" width="16" height="12" rx="4" fill="#90CAF9"/>
+  <!-- front light -->
+  <circle cx="86" cy="70" r="6" fill="#FFF9C4"/>
+  <!-- wheels -->
+  <circle cx="30" cy="100" r="12" fill="#1B5E20"/>
+  <circle cx="56" cy="100" r="12" fill="#1B5E20"/>
+  <circle cx="30" cy="100" r="7" fill="#388E3C"/>
+  <circle cx="56" cy="100" r="7" fill="#388E3C"/>
+  <circle cx="30" cy="100" r="3" fill="#A5D6A7"/>
+  <circle cx="56" cy="100" r="3" fill="#A5D6A7"/>
+  <!-- small front wheel -->
+  <circle cx="80" cy="100" r="9" fill="#1B5E20"/>
+  <circle cx="80" cy="100" r="5" fill="#388E3C"/>
+  <!-- rail connector rod -->
+  <rect x="26" y="97" width="58" height="4" rx="2" fill="#1B5E20"/>
+  <!-- coupler -->
+  <rect x="10" y="82" width="6" height="8" rx="2" fill="#1B5E20"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一把小提琴">
+  <title>Violin</title>
+  <ellipse cx="60" cy="112" rx="20" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- bow (diagonal) -->
+  <path d="M12 22 L42 62" stroke="#8B5A2B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M12 22 L42 62" stroke="#C49A6C" stroke-width="2" stroke-linecap="round"/>
+  <!-- bow hair (strings) -->
+  <path d="M10 24 L40 64" stroke="#f5f5dc" stroke-width="1"/>
+  <path d="M14 20 L44 60" stroke="#f5f5dc" stroke-width="1"/>
+  <!-- scroll/peg box -->
+  <path d="M52 10 Q60 8 64 14 Q60 18 56 16 Q60 20 60 24 L58 28" stroke="#6B3A14" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- neck -->
+  <rect x="56" y="24" width="8" height="22" rx="3" fill="#8B5A2B"/>
+  <!-- nut -->
+  <rect x="54" y="44" width="12" height="4" rx="2" fill="#2a1a0a"/>
+  <!-- fingerboard -->
+  <rect x="56" y="44" width="8" height="20" rx="2" fill="#2a1a0a"/>
+  <!-- body upper bout -->
+  <ellipse cx="60" cy="78" rx="20" ry="14" fill="#B87030"/>
+  <!-- waist -->
+  <rect x="50" y="86" width="20" height="12" rx="0" fill="#A06028"/>
+  <!-- body lower bout -->
+  <ellipse cx="60" cy="98" rx="24" ry="16" fill="#B87030"/>
+  <!-- body highlight -->
+  <ellipse cx="52" cy="74" rx="6" ry="4" fill="#D49050" opacity="0.5" transform="rotate(-20 52 74)"/>
+  <ellipse cx="52" cy="96" rx="6" ry="4" fill="#D49050" opacity="0.4" transform="rotate(-10 52 96)"/>
+  <!-- f-holes -->
+  <path d="M52 84 Q50 88 52 92" stroke="#2a1a0a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <path d="M68 84 Q70 88 68 92" stroke="#2a1a0a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- bridge -->
+  <path d="M52 88 Q60 86 68 88" stroke="#C49A6C" stroke-width="2" fill="none"/>
+  <!-- strings (4) -->
+  <line x1="56" y1="46" x2="56" y2="90" stroke="#D4C090" stroke-width="1"/>
+  <line x1="58.5" y1="46" x2="58.5" y2="90" stroke="#D4C090" stroke-width="1"/>
+  <line x1="61.5" y1="46" x2="61.5" y2="90" stroke="#D4C090" stroke-width="1"/>
+  <line x1="64" y1="46" x2="64" y2="90" stroke="#D4C090" stroke-width="1"/>
+  <!-- tail piece -->
+  <path d="M54 106 Q60 112 66 106 L64 90 L56 90 Z" fill="#6B3A14"/>
+</svg>

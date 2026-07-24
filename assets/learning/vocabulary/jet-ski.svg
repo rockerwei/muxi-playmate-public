@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Jet ski（水上摩托車）對應的幼兒學習插圖">
+  <title>Jet ski</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <path d="M18 60 H102 V68 H18 Z" fill="#FDD835"/>
+      <path d="M34 60 L60 34 L86 60 Z" fill="#EC407A"/>
+      <path d="M52 48 H68 V60 H52 Z" fill="#FDD835"/>
+      <ellipse cx="58" cy="42" rx="8" ry="4" fill="rgba(255,255,255,0.28)"/>
+</svg>

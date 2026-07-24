@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一把金色鑰匙">
+  <title>Key</title>
+  <ellipse cx="60" cy="112" rx="20" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- key ring circle -->
+  <circle cx="42" cy="46" r="26" fill="#FFD600"/>
+  <circle cx="42" cy="46" r="18" fill="#FFC107"/>
+  <circle cx="42" cy="46" r="11" fill="#FFECB3"/>
+  <circle cx="42" cy="46" r="5" fill="#FFD600"/>
+  <!-- key shaft -->
+  <rect x="60" y="40" width="48" height="12" rx="6" fill="#FFD600"/>
+  <!-- key teeth -->
+  <rect x="80" y="52" width="8" height="10" rx="3" fill="#FFD600"/>
+  <rect x="95" y="52" width="8" height="14" rx="3" fill="#FFD600"/>
+  <!-- shine on ring -->
+  <ellipse cx="34" cy="34" rx="8" ry="5" fill="rgba(255,255,255,0.4)" transform="rotate(-30 34 34)"/>
+</svg>

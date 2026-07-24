@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Uniform bag（制服收納袋）對應的幼兒學習插圖">
+  <title>Uniform bag</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><path d="M36 38 Q60 28 84 38 L92 92 Q60 84 28 92 Z" fill="#6D4C41"/>
+    <circle cx="60" cy="34" r="10" fill="none" stroke="#E53935" stroke-width="4"/>
+    <ellipse cx="48" cy="52" rx="10" ry="12" fill="rgba(255,255,255,0.28)"/></g><path d="M74 24 C74 20 92 20 92 24 L96 42 C96 46 70 46 70 42 Z" fill="#A78BFA"/><rect x="80" y="18" width="8" height="8" rx="3" fill="none" stroke="#7C3AED" stroke-width="2"/>
+</svg>

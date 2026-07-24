@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一條小魚">
+  <title>Fish</title>
+  <ellipse cx="60" cy="108" rx="26" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- tail -->
+  <path d="M85 60 L108 40 L108 80 Z" fill="#E05A2B"/>
+  <path d="M85 60 L106 44 L106 76 Z" fill="#F07040"/>
+  <!-- body -->
+  <ellipse cx="58" cy="60" rx="32" ry="20" fill="#F07040"/>
+  <!-- belly -->
+  <ellipse cx="55" cy="65" rx="22" ry="11" fill="#FACDB0"/>
+  <!-- dorsal fin -->
+  <path d="M40 40 Q55 28 70 40" stroke="#E05A2B" stroke-width="0" fill="#E05A2B"/>
+  <path d="M40 40 Q55 30 70 40 L70 44 Q55 34 40 44 Z" fill="#E05A2B"/>
+  <!-- eye -->
+  <circle cx="34" cy="56" r="7" fill="#fff"/>
+  <circle cx="35" cy="56" r="4" fill="#1a1a2a"/>
+  <circle cx="36" cy="55" r="1.5" fill="#fff"/>
+  <!-- scales hint -->
+  <path d="M52 50 Q58 44 66 50" stroke="#E05A2B" stroke-width="1.5" fill="none"/>
+  <path d="M62 50 Q68 44 76 50" stroke="#E05A2B" stroke-width="1.5" fill="none"/>
+  <path d="M46 58 Q52 52 60 58" stroke="#E05A2B" stroke-width="1.5" fill="none"/>
+  <path d="M58 58 Q64 52 72 58" stroke="#E05A2B" stroke-width="1.5" fill="none"/>
+  <!-- mouth -->
+  <path d="M22 62 Q26 58 22 55" stroke="#E05A2B" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- bubbles -->
+  <circle cx="18" cy="48" r="3" fill="none" stroke="#60C0E0" stroke-width="1.5"/>
+  <circle cx="12" cy="40" r="2" fill="none" stroke="#60C0E0" stroke-width="1.2"/>
+</svg>

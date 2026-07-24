@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Alligator（鱷魚）對應的幼兒學習插圖">
+  <title>Alligator</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <path d="M24 68 Q34 52 52 56 Q72 60 88 54 Q98 50 98 58 Q84 66 68 68 Q52 72 36 70 Q28 70 24 68 Z" fill="#E53935"/>
+      <ellipse cx="44" cy="58" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
+      <circle cx="88" cy="54" r="3" fill="#111827"/>
+      <path d="M24 68 Q18 72 16 78 Q22 74 24 68" fill="#43A047"/>
+</svg>

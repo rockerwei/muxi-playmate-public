@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Soup（湯）對應的幼兒學習插圖">
+  <title>Soup</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <rect x="42" y="36" width="36" height="48" rx="6" fill="#8E24AA" opacity="0.35"/>
+      <rect x="46" y="48" width="28" height="30" rx="4" fill="#FDD835"/>
+      <ellipse cx="52" cy="56" rx="8" ry="10" fill="rgba(255,255,255,0.28)"/>
+      <path d="M54 36 Q60 24 66 36" fill="none" stroke="#8E24AA" stroke-width="4"/>
+</svg>

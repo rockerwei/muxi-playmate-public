@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻白色小兔子">
+  <title>Rabbit</title>
+  <ellipse cx="60" cy="108" rx="26" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- ears -->
+  <ellipse cx="44" cy="26" rx="9" ry="22" fill="#FAFAFA"/>
+  <ellipse cx="76" cy="26" rx="9" ry="22" fill="#FAFAFA"/>
+  <ellipse cx="44" cy="26" rx="5" ry="16" fill="#F48FB1"/>
+  <ellipse cx="76" cy="26" rx="5" ry="16" fill="#F48FB1"/>
+  <!-- body -->
+  <ellipse cx="60" cy="84" rx="28" ry="24" fill="#FAFAFA"/>
+  <!-- head -->
+  <circle cx="60" cy="56" r="26" fill="#FAFAFA"/>
+  <!-- cheeks -->
+  <circle cx="44" cy="64" r="8" fill="#FFCDD2" opacity="0.7"/>
+  <circle cx="76" cy="64" r="8" fill="#FFCDD2" opacity="0.7"/>
+  <!-- eyes -->
+  <circle cx="48" cy="50" r="5" fill="#fff"/>
+  <circle cx="72" cy="50" r="5" fill="#fff"/>
+  <circle cx="49" cy="50" r="3" fill="#E91E63"/>
+  <circle cx="73" cy="50" r="3" fill="#E91E63"/>
+  <circle cx="50" cy="49" r="1" fill="#fff"/>
+  <circle cx="74" cy="49" r="1" fill="#fff"/>
+  <!-- nose -->
+  <ellipse cx="60" cy="61" rx="4" ry="3" fill="#F48FB1"/>
+  <!-- mouth -->
+  <path d="M55 64 Q60 70 65 64" stroke="#BDBDBD" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- tummy -->
+  <ellipse cx="60" cy="88" rx="14" ry="12" fill="#F5F5F5"/>
+  <!-- tail -->
+  <circle cx="60" cy="107" r="7" fill="#FAFAFA"/>
+</svg>

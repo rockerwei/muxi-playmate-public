@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一本打開的故事書">
+  <title>Book</title>
+  <ellipse cx="60" cy="104" rx="42" ry="7" fill="#000" opacity=".1"/>
+  <path d="M17 29c17-5 31-1 43 9v58c-13-9-27-12-43-7z" fill="#60A5FA" stroke="#2563EB" stroke-width="3"/>
+  <path d="M103 29c-17-5-31-1-43 9v58c13-9 27-12 43-7z" fill="#F9A8D4" stroke="#DB2777" stroke-width="3"/>
+  <path d="M60 38v58" stroke="#7C3AED" stroke-width="3" stroke-linecap="round"/>
+  <path d="M27 44c9-2 17 0 24 5M27 57c9-2 17 0 24 5M93 44c-9-2-17 0-24 5M93 57c-9-2-17 0-24 5" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".85"/>
+  <circle cx="81" cy="75" r="9" fill="#FDE68A"/><path d="M75 75h12M81 69v12" stroke="#F59E0B" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻老虎">
+  <title>Tiger</title>
+  <ellipse cx="60" cy="108" rx="28" ry="7" fill="rgba(0,0,0,0.10)"/>
+  <!-- ears -->
+  <path d="M36 32 L28 12 L50 28 Z" fill="#E06020"/>
+  <path d="M84 32 L92 12 L70 28 Z" fill="#E06020"/>
+  <path d="M38 30 L32 16 L48 28 Z" fill="#FFD700"/>
+  <path d="M82 30 L88 16 L72 28 Z" fill="#FFD700"/>
+  <!-- body -->
+  <ellipse cx="60" cy="85" rx="30" ry="22" fill="#E8901C"/>
+  <!-- body stripes -->
+  <path d="M38 76 Q44 72 46 80" stroke="#2a2a2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M38 86 Q44 82 46 90" stroke="#2a2a2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M82 76 Q76 72 74 80" stroke="#2a2a2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M82 86 Q76 82 74 90" stroke="#2a2a2a" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- head -->
+  <circle cx="60" cy="50" r="26" fill="#E8901C"/>
+  <!-- white face area -->
+  <ellipse cx="60" cy="60" rx="18" ry="14" fill="#FFF5DC"/>
+  <!-- head stripes -->
+  <path d="M44 34 Q48 38 44 44" stroke="#2a2a2a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M76 34 Q72 38 76 44" stroke="#2a2a2a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M54 28 Q56 34 54 38" stroke="#2a2a2a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M66 28 Q64 34 66 38" stroke="#2a2a2a" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="50" cy="46" r="6" fill="#FFD700"/>
+  <circle cx="70" cy="46" r="6" fill="#FFD700"/>
+  <ellipse cx="50" cy="46" rx="3" ry="5" fill="#1a1a1a"/>
+  <ellipse cx="70" cy="46" rx="3" ry="5" fill="#1a1a1a"/>
+  <circle cx="51" cy="44" r="1.5" fill="#fff"/>
+  <circle cx="71" cy="44" r="1.5" fill="#fff"/>
+  <!-- nose -->
+  <path d="M54 58 Q60 54 66 58 Q60 64 54 58 Z" fill="#C04040"/>
+  <!-- whiskers -->
+  <line x1="34" y1="63" x2="52" y2="62" stroke="#2a2a2a" stroke-width="1.5"/>
+  <line x1="34" y1="67" x2="52" y2="65" stroke="#2a2a2a" stroke-width="1.5"/>
+  <line x1="86" y1="63" x2="68" y2="62" stroke="#2a2a2a" stroke-width="1.5"/>
+  <line x1="86" y1="67" x2="68" y2="65" stroke="#2a2a2a" stroke-width="1.5"/>
+  <!-- mouth -->
+  <path d="M54 64 Q60 70 66 64" stroke="#C04040" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Visitor picture（訪客圖片）對應的幼兒學習插圖">
+  <title>Visitor picture</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><circle cx="60" cy="36" r="16" fill="#43A047"/>
+      <path d="M36 92 Q36 62 60 58 Q84 62 84 92 Z" fill="#E53935"/>
+      <path d="M44 30 H76 L70 18 H50 Z" fill="#43A047"/>
+      <ellipse cx="54" cy="32" rx="5" ry="4" fill="rgba(255,255,255,0.28)"/></g><rect x="70" y="16" width="36" height="28" rx="3" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/><circle cx="82" cy="28" r="5" fill="#60A5FA"/><path d="M74 38 L84 30 L92 36 L98 32 L102 38 Z" fill="#34D399"/>
+</svg>

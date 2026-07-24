@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Outer wood frame -->
+  <rect x="5" y="12" width="90" height="76" rx="8" fill="#8B5E3C"/>
+  <!-- Inner frame -->
+  <rect x="10" y="17" width="80" height="66" rx="6" fill="#F5DEB3"/>
+  <!-- Horizontal divider bar -->
+  <rect x="8" y="43" width="84" height="5" rx="2" fill="#8B5E3C"/>
+
+  <!-- 5 vertical rods -->
+  <rect x="21" y="17" width="3" height="66" rx="1" fill="#6B4226"/>
+  <rect x="35" y="17" width="3" height="66" rx="1" fill="#6B4226"/>
+  <rect x="49" y="17" width="3" height="66" rx="1" fill="#6B4226"/>
+  <rect x="63" y="17" width="3" height="66" rx="1" fill="#6B4226"/>
+  <rect x="77" y="17" width="3" height="66" rx="1" fill="#6B4226"/>
+
+  <!-- ── Heaven beads (above divider, 1 per rod) ── -->
+  <!-- Rod 1 -->
+  <ellipse cx="22" cy="33" rx="9" ry="7" fill="#FF6B6B"/>
+  <ellipse cx="22" cy="30" rx="7" ry="4" fill="#FF9898" opacity="0.55"/>
+  <!-- Rod 2 -->
+  <ellipse cx="36" cy="33" rx="9" ry="7" fill="#FF6B6B"/>
+  <ellipse cx="36" cy="30" rx="7" ry="4" fill="#FF9898" opacity="0.55"/>
+  <!-- Rod 3 -->
+  <ellipse cx="50" cy="33" rx="9" ry="7" fill="#FF6B6B"/>
+  <ellipse cx="50" cy="30" rx="7" ry="4" fill="#FF9898" opacity="0.55"/>
+  <!-- Rod 4 -->
+  <ellipse cx="64" cy="33" rx="9" ry="7" fill="#FF6B6B"/>
+  <ellipse cx="64" cy="30" rx="7" ry="4" fill="#FF9898" opacity="0.55"/>
+  <!-- Rod 5 -->
+  <ellipse cx="78" cy="33" rx="9" ry="7" fill="#FF6B6B"/>
+  <ellipse cx="78" cy="30" rx="7" ry="4" fill="#FF9898" opacity="0.55"/>
+
+  <!-- ── Earth beads (below divider, 2 per rod, bottom-aligned) ── -->
+  <!-- Rod 1: teal + yellow -->
+  <ellipse cx="22" cy="63" rx="9" ry="7" fill="#4ECDC4"/>
+  <ellipse cx="22" cy="60" rx="7" ry="4" fill="#80E8E2" opacity="0.55"/>
+  <ellipse cx="22" cy="75" rx="9" ry="7" fill="#FFE66D"/>
+  <ellipse cx="22" cy="72" rx="7" ry="4" fill="#FFF5A0" opacity="0.55"/>
+  <!-- Rod 2: yellow + teal -->
+  <ellipse cx="36" cy="63" rx="9" ry="7" fill="#FFE66D"/>
+  <ellipse cx="36" cy="60" rx="7" ry="4" fill="#FFF5A0" opacity="0.55"/>
+  <ellipse cx="36" cy="75" rx="9" ry="7" fill="#4ECDC4"/>
+  <ellipse cx="36" cy="72" rx="7" ry="4" fill="#80E8E2" opacity="0.55"/>
+  <!-- Rod 3: teal + yellow -->
+  <ellipse cx="50" cy="63" rx="9" ry="7" fill="#4ECDC4"/>
+  <ellipse cx="50" cy="60" rx="7" ry="4" fill="#80E8E2" opacity="0.55"/>
+  <ellipse cx="50" cy="75" rx="9" ry="7" fill="#FFE66D"/>
+  <ellipse cx="50" cy="72" rx="7" ry="4" fill="#FFF5A0" opacity="0.55"/>
+  <!-- Rod 4: yellow + teal -->
+  <ellipse cx="64" cy="63" rx="9" ry="7" fill="#FFE66D"/>
+  <ellipse cx="64" cy="60" rx="7" ry="4" fill="#FFF5A0" opacity="0.55"/>
+  <ellipse cx="64" cy="75" rx="9" ry="7" fill="#4ECDC4"/>
+  <ellipse cx="64" cy="72" rx="7" ry="4" fill="#80E8E2" opacity="0.55"/>
+  <!-- Rod 5: teal + yellow -->
+  <ellipse cx="78" cy="63" rx="9" ry="7" fill="#4ECDC4"/>
+  <ellipse cx="78" cy="60" rx="7" ry="4" fill="#80E8E2" opacity="0.55"/>
+  <ellipse cx="78" cy="75" rx="9" ry="7" fill="#FFE66D"/>
+  <ellipse cx="78" cy="72" rx="7" ry="4" fill="#FFF5A0" opacity="0.55"/>
+</svg>

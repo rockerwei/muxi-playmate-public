@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Oval（橢圓形）對應的幼兒學習插圖">
+  <title>Oval</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <rect x="30" y="34" width="60" height="52" rx="8" fill="#E53935" stroke="#43A047" stroke-width="3"/>
+    <ellipse cx="42" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
+</svg>

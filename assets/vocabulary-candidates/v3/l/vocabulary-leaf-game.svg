@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一片綠色葉子">
+  <title>Leaf</title>
+  <ellipse cx="60" cy="112" rx="18" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- stem -->
+  <path d="M60 110 Q58 90 62 72" stroke="#388E3C" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- leaf body -->
+  <path d="M62 72 Q88 44 76 20 Q60 8 42 22 Q24 40 38 66 Q46 80 62 72 Z" fill="#4CAF50"/>
+  <!-- main vein -->
+  <path d="M62 72 Q70 50 68 28" stroke="#A5D6A7" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- side veins left -->
+  <path d="M56 60 Q44 52 40 44" stroke="#A5D6A7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M60 50 Q50 42 46 34" stroke="#A5D6A7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- side veins right -->
+  <path d="M65 55 Q76 48 80 40" stroke="#A5D6A7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M66 44 Q74 36 72 28" stroke="#A5D6A7" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- highlight -->
+  <path d="M62 68 Q80 44 72 24" stroke="rgba(255,255,255,0.35)" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>

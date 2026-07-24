@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一顆金黃色星星">
+  <title>Star</title>
+  <ellipse cx="60" cy="112" rx="24" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- glow -->
+  <circle cx="60" cy="56" r="34" fill="#FFF8E1" opacity="0.6"/>
+  <!-- star body -->
+  <polygon points="60,16 70,46 102,46 77,65 86,96 60,77 34,96 43,65 18,46 50,46" fill="#FFD600"/>
+  <!-- highlight -->
+  <polygon points="60,22 67,44 84,44 70,56 75,78 60,66 45,78 50,56 36,44 53,44" fill="#FFEE58" opacity="0.6"/>
+  <!-- center shine -->
+  <circle cx="60" cy="56" r="8" fill="#FFF59D" opacity="0.7"/>
+  <!-- sparkles -->
+  <circle cx="92" cy="24" r="4" fill="#FFD600" opacity="0.8"/>
+  <circle cx="28" cy="32" r="3" fill="#FFD600" opacity="0.7"/>
+  <circle cx="100" cy="72" r="3" fill="#FFD600" opacity="0.6"/>
+</svg>

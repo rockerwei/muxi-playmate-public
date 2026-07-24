@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻獅子">
+  <title>Lion</title>
+  <ellipse cx="60" cy="108" rx="28" ry="7" fill="rgba(0,0,0,0.10)"/>
+  <!-- mane -->
+  <circle cx="60" cy="56" r="38" fill="#C8701A"/>
+  <!-- mane texture - rays -->
+  <circle cx="60" cy="56" r="34" fill="#D98A2A"/>
+  <!-- face -->
+  <circle cx="60" cy="56" r="26" fill="#F5C842"/>
+  <!-- ears (behind mane) -->
+  <circle cx="34" cy="30" r="10" fill="#C8701A"/>
+  <circle cx="86" cy="30" r="10" fill="#C8701A"/>
+  <circle cx="34" cy="30" r="6" fill="#E8A050"/>
+  <circle cx="86" cy="30" r="6" fill="#E8A050"/>
+  <!-- forehead -->
+  <ellipse cx="60" cy="44" rx="16" ry="10" fill="#F5D058"/>
+  <!-- eyes -->
+  <circle cx="50" cy="50" r="6" fill="#fff"/>
+  <circle cx="70" cy="50" r="6" fill="#fff"/>
+  <circle cx="51" cy="50" r="4" fill="#8B5A00"/>
+  <circle cx="71" cy="50" r="4" fill="#8B5A00"/>
+  <circle cx="52" cy="49" r="1.5" fill="#1a1a1a"/>
+  <circle cx="72" cy="49" r="1.5" fill="#1a1a1a"/>
+  <circle cx="53" cy="48" r="1" fill="#fff"/>
+  <circle cx="73" cy="48" r="1" fill="#fff"/>
+  <!-- nose -->
+  <path d="M54 62 Q60 58 66 62 Q60 70 54 62 Z" fill="#C05030"/>
+  <!-- whisker dots -->
+  <circle cx="44" cy="65" r="2" fill="#C8A050"/>
+  <circle cx="44" cy="61" r="2" fill="#C8A050"/>
+  <circle cx="76" cy="65" r="2" fill="#C8A050"/>
+  <circle cx="76" cy="61" r="2" fill="#C8A050"/>
+  <!-- mouth -->
+  <path d="M54 68 Q60 74 66 68" stroke="#C05030" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <line x1="60" y1="68" x2="60" y2="74" stroke="#C05030" stroke-width="2"/>
+  <!-- body -->
+  <ellipse cx="60" cy="95" rx="22" ry="16" fill="#E8B030"/>
+</svg>

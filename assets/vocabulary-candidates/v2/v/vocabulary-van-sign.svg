@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一個藍色花瓶">
+  <title>Vase</title>
+  <ellipse cx="60" cy="108" rx="26" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- vase body -->
+  <path d="M36 100 Q30 80 34 60 Q38 40 60 30 Q82 40 86 60 Q90 80 84 100 Z" fill="#1976D2"/>
+  <!-- vase neck -->
+  <rect x="46" y="22" width="28" height="12" rx="6" fill="#1976D2"/>
+  <!-- vase rim -->
+  <ellipse cx="60" cy="22" rx="20" ry="8" fill="#1565C0"/>
+  <!-- vase highlight left -->
+  <path d="M40 90 Q36 68 40 50 Q44 36 52 30" stroke="rgba(255,255,255,0.30)" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- pattern band -->
+  <path d="M36 70 Q60 66 84 70" stroke="#90CAF9" stroke-width="3" fill="none"/>
+  <path d="M34 78 Q60 74 86 78" stroke="#90CAF9" stroke-width="3" fill="none"/>
+  <!-- water hint -->
+  <ellipse cx="60" cy="30" rx="14" ry="5" fill="#90CAF9" opacity="0.7"/>
+  <!-- flowers in vase -->
+  <circle cx="50" cy="18" r="8" fill="#F48FB1"/>
+  <circle cx="60" cy="12" r="8" fill="#EF5350"/>
+  <circle cx="70" cy="18" r="8" fill="#FFD600"/>
+  <circle cx="50" cy="18" r="4" fill="#FF8A65"/>
+  <circle cx="60" cy="12" r="4" fill="#FF8A65"/>
+  <circle cx="70" cy="18" r="4" fill="#FF8A65"/>
+</svg>

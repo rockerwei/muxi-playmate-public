@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Lake book（湖泊圖畫書）對應的幼兒學習插圖">
+  <title>Lake book</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="28" y="48" width="64" height="40" rx="4" fill="#FDD835"/>
+    <path d="M24 48 L60 24 L96 48 Z" fill="#8E24AA"/>
+    <rect x="48" y="64" width="16" height="24" rx="2" fill="#8E24AA"/>
+    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/></g><path d="M68 20 H98 V44 H68 Z" fill="#F97316"/><path d="M68 20 C74 24 92 24 98 20" fill="none" stroke="#EA580C" stroke-width="2"/><line x1="83" y1="20" x2="83" y2="44" stroke="#EA580C" stroke-width="1.5"/>
+</svg>

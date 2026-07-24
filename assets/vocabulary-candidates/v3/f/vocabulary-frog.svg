@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻綠色青蛙">
+  <title>Frog</title>
+  <ellipse cx="60" cy="108" rx="28" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- body -->
+  <ellipse cx="60" cy="80" rx="32" ry="26" fill="#4CAF50"/>
+  <!-- belly -->
+  <ellipse cx="60" cy="84" rx="20" ry="18" fill="#A5D6A7"/>
+  <!-- front legs -->
+  <ellipse cx="28" cy="96" rx="12" ry="7" fill="#4CAF50" transform="rotate(-20 28 96)"/>
+  <ellipse cx="92" cy="96" rx="12" ry="7" fill="#4CAF50" transform="rotate(20 92 96)"/>
+  <!-- back feet -->
+  <ellipse cx="22" cy="100" rx="10" ry="5" fill="#388E3C"/>
+  <ellipse cx="98" cy="100" rx="10" ry="5" fill="#388E3C"/>
+  <!-- head -->
+  <ellipse cx="60" cy="52" rx="28" ry="24" fill="#4CAF50"/>
+  <!-- eyes on top of head -->
+  <circle cx="42" cy="36" r="12" fill="#4CAF50"/>
+  <circle cx="78" cy="36" r="12" fill="#4CAF50"/>
+  <circle cx="42" cy="36" r="8" fill="#fff"/>
+  <circle cx="78" cy="36" r="8" fill="#fff"/>
+  <circle cx="43" cy="36" r="5" fill="#1a1a2e"/>
+  <circle cx="79" cy="36" r="5" fill="#1a1a2e"/>
+  <circle cx="44" cy="35" r="2" fill="#fff"/>
+  <circle cx="80" cy="35" r="2" fill="#fff"/>
+  <!-- smile -->
+  <path d="M42 62 Q60 72 78 62" stroke="#2E7D32" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- nostrils -->
+  <circle cx="56" cy="55" r="2" fill="#388E3C"/>
+  <circle cx="64" cy="55" r="2" fill="#388E3C"/>
+</svg>

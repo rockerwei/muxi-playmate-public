@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Key box（鑰匙盒）對應的幼兒學習插圖">
+  <title>Key box</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><title>Key</title>
+  <ellipse cx="60" cy="112" rx="20" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- key ring circle -->
+  <circle cx="42" cy="46" r="26" fill="#FFD600"/>
+  <circle cx="42" cy="46" r="18" fill="#FFC107"/>
+  <circle cx="42" cy="46" r="11" fill="#FFECB3"/>
+  <circle cx="42" cy="46" r="5" fill="#FFD600"/>
+  <!-- key shaft -->
+  <rect x="60" y="40" width="48" height="12" rx="6" fill="#FFD600"/>
+  <!-- key teeth -->
+  <rect x="80" y="52" width="8" height="10" rx="3" fill="#FFD600"/>
+  <rect x="95" y="52" width="8" height="14" rx="3" fill="#FFD600"/>
+  <!-- shine on ring -->
+  <ellipse cx="34" cy="34" rx="8" ry="5" fill="rgba(255,255,255,0.4)" transform="rotate(-30 34 34)"/></g><rect x="72" y="24" width="28" height="22" rx="3" fill="#F59E0B"/><line x1="72" y1="30" x2="100" y2="30" stroke="#D97706" stroke-width="2"/>
+</svg>

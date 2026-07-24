@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻大象">
+  <title>Elephant</title>
+  <ellipse cx="60" cy="108" rx="32" ry="7" fill="rgba(0,0,0,0.10)"/>
+  <!-- ears -->
+  <ellipse cx="22" cy="52" rx="18" ry="22" fill="#A0A8B0"/>
+  <ellipse cx="98" cy="52" rx="18" ry="22" fill="#A0A8B0"/>
+  <ellipse cx="22" cy="54" rx="12" ry="15" fill="#C8BEBE"/>
+  <ellipse cx="98" cy="54" rx="12" ry="15" fill="#C8BEBE"/>
+  <!-- body -->
+  <ellipse cx="60" cy="85" rx="30" ry="22" fill="#8A9099"/>
+  <!-- head -->
+  <circle cx="60" cy="50" r="26" fill="#8A9099"/>
+  <!-- trunk -->
+  <path d="M52 70 Q40 85 45 98 Q47 104 52 104 Q57 104 55 98 Q52 88 58 76"
+        stroke="#8A9099" stroke-width="11" fill="none" stroke-linecap="round"/>
+  <path d="M52 70 Q40 85 45 98 Q47 104 52 104 Q57 104 55 98 Q52 88 58 76"
+        stroke="#A0A8B0" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- tusk hint -->
+  <path d="M55 68 Q50 74 44 72" stroke="#F5F0DC" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <circle cx="48" cy="44" r="5" fill="#fff"/>
+  <circle cx="72" cy="44" r="5" fill="#fff"/>
+  <circle cx="49" cy="44" r="3" fill="#2a2a2a"/>
+  <circle cx="73" cy="44" r="3" fill="#2a2a2a"/>
+  <circle cx="50" cy="43" r="1" fill="#fff"/>
+  <circle cx="74" cy="43" r="1" fill="#fff"/>
+  <!-- legs -->
+  <rect x="34" y="100" width="14" height="10" rx="5" fill="#8A9099"/>
+  <rect x="54" y="100" width="14" height="10" rx="5" fill="#8A9099"/>
+  <rect x="71" y="100" width="14" height="10" rx="5" fill="#8A9099"/>
+</svg>

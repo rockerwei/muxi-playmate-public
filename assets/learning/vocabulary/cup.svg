@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一個紫色小杯子">
+  <title>Cup</title>
+  <ellipse cx="57" cy="104" rx="31" ry="7" fill="#000" opacity=".1"/>
+  <path d="M28 32h56l-5 61c-1 8-8 13-16 13H49c-8 0-15-5-16-13z" fill="#C4B5FD" stroke="#7C3AED" stroke-width="4"/>
+  <path d="M84 47h8c12 0 17 9 14 19-3 9-12 14-25 13" fill="none" stroke="#7C3AED" stroke-width="7" stroke-linecap="round"/>
+  <ellipse cx="56" cy="32" rx="28" ry="8" fill="#EDE9FE" stroke="#7C3AED" stroke-width="4"/>
+  <path d="M42 47c8-5 20-5 28 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+</svg>

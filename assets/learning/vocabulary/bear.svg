@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻棕色小熊">
+  <title>Bear</title>
+  <ellipse cx="60" cy="108" rx="28" ry="7" fill="rgba(0,0,0,0.10)"/>
+  <!-- ears -->
+  <circle cx="38" cy="34" r="14" fill="#8B5E3C"/>
+  <circle cx="82" cy="34" r="14" fill="#8B5E3C"/>
+  <circle cx="38" cy="34" r="9" fill="#C47C4E"/>
+  <circle cx="82" cy="34" r="9" fill="#C47C4E"/>
+  <!-- body -->
+  <ellipse cx="60" cy="84" rx="30" ry="24" fill="#8B5E3C"/>
+  <!-- head -->
+  <circle cx="60" cy="56" r="28" fill="#8B5E3C"/>
+  <!-- muzzle -->
+  <ellipse cx="60" cy="66" rx="16" ry="12" fill="#C47C4E"/>
+  <!-- eyes -->
+  <circle cx="48" cy="48" r="5" fill="#fff"/>
+  <circle cx="72" cy="48" r="5" fill="#fff"/>
+  <circle cx="49" cy="48" r="3" fill="#3a2a1a"/>
+  <circle cx="73" cy="48" r="3" fill="#3a2a1a"/>
+  <circle cx="50" cy="47" r="1" fill="#fff"/>
+  <circle cx="74" cy="47" r="1" fill="#fff"/>
+  <!-- nose -->
+  <ellipse cx="60" cy="62" rx="7" ry="5" fill="#3a2a1a"/>
+  <ellipse cx="59" cy="61" rx="2" ry="1.5" fill="#6a5a4a"/>
+  <!-- mouth -->
+  <path d="M54 68 Q60 74 66 68" stroke="#3a2a1a" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- tummy -->
+  <ellipse cx="60" cy="88" rx="16" ry="14" fill="#C47C4E"/>
+</svg>

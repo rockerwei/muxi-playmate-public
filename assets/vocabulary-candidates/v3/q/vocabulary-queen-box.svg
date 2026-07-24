@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一位女王">
+  <title>Queen</title>
+  <ellipse cx="60" cy="110" rx="24" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- dress/robe -->
+  <path d="M40 72 L30 110 L90 110 L80 72 Z" fill="#9030D0"/>
+  <!-- dress pattern -->
+  <path d="M40 72 L30 110 L90 110 L80 72 Z" fill="none" stroke="#7020B0" stroke-width="1"/>
+  <!-- dress gems/pattern -->
+  <circle cx="50" cy="88" r="4" fill="#FFD700"/>
+  <circle cx="60" cy="84" r="4" fill="#FFD700"/>
+  <circle cx="70" cy="88" r="4" fill="#FFD700"/>
+  <circle cx="46" cy="100" r="3" fill="#FF60A0"/>
+  <circle cx="60" cy="96" r="3" fill="#FF60A0"/>
+  <circle cx="74" cy="100" r="3" fill="#FF60A0"/>
+  <!-- cape/cloak ermine -->
+  <path d="M36 72 L26 110 L30 110 L40 72 Z" fill="#f0f0f0"/>
+  <path d="M84 72 L94 110 L90 110 L80 72 Z" fill="#f0f0f0"/>
+  <!-- belt -->
+  <rect x="38" y="72" width="44" height="8" rx="4" fill="#FFD700"/>
+  <circle cx="60" cy="76" r="5" fill="#FF2060"/>
+  <!-- body/torso -->
+  <ellipse cx="60" cy="66" rx="18" ry="16" fill="#FFDBC0"/>
+  <!-- arms -->
+  <ellipse cx="38" cy="66" rx="10" ry="8" fill="#FFDBC0" transform="rotate(20 38 66)"/>
+  <ellipse cx="82" cy="66" rx="10" ry="8" fill="#FFDBC0" transform="rotate(-20 82 66)"/>
+  <!-- head -->
+  <circle cx="60" cy="44" r="20" fill="#FFDBC0"/>
+  <!-- hair -->
+  <path d="M40 44 Q40 22 60 20 Q80 22 80 44" fill="#8B4513"/>
+  <!-- side curls -->
+  <ellipse cx="40" cy="44" rx="6" ry="10" fill="#8B4513"/>
+  <ellipse cx="80" cy="44" rx="6" ry="10" fill="#8B4513"/>
+  <!-- face -->
+  <circle cx="52" cy="44" r="4" fill="#fff"/>
+  <circle cx="68" cy="44" r="4" fill="#fff"/>
+  <circle cx="53" cy="44" r="2.5" fill="#3a2a1a"/>
+  <circle cx="69" cy="44" r="2.5" fill="#3a2a1a"/>
+  <circle cx="54" cy="43" r="1" fill="#fff"/>
+  <circle cx="70" cy="43" r="1" fill="#fff"/>
+  <!-- cheeks -->
+  <ellipse cx="44" cy="50" rx="5" ry="3" fill="#FFB0B0" opacity="0.7"/>
+  <ellipse cx="76" cy="50" rx="5" ry="3" fill="#FFB0B0" opacity="0.7"/>
+  <!-- mouth -->
+  <path d="M55 54 Q60 58 65 54" stroke="#C05070" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- crown -->
+  <rect x="36" y="20" width="48" height="12" rx="4" fill="#FFD700"/>
+  <polygon points="36,20 42,6 48,20" fill="#FFD700"/>
+  <polygon points="54,20 60,6 66,20" fill="#FFD700"/>
+  <polygon points="72,20 78,6 84,20" fill="#FFD700"/>
+  <!-- crown gems -->
+  <circle cx="42" cy="16" r="4" fill="#E03060"/>
+  <circle cx="60" cy="14" r="5" fill="#3060E0"/>
+  <circle cx="78" cy="16" r="4" fill="#E03060"/>
+</svg>

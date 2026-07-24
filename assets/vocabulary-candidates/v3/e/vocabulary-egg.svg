@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一顆白色雞蛋">
+  <title>Egg</title>
+  <ellipse cx="60" cy="110" rx="26" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- egg body -->
+  <path d="M60 18 C82 18 96 40 96 66 C96 90 80 106 60 106 C40 106 24 90 24 66 C24 40 38 18 60 18 Z" fill="#FAFAFA"/>
+  <!-- egg highlight -->
+  <path d="M46 26 C50 22 56 20 60 20" stroke="rgba(255,255,255,0.9)" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M36 40 C38 34 42 28 46 26" stroke="rgba(255,255,255,0.7)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- subtle shadow edge -->
+  <path d="M60 106 C40 106 24 90 24 66 C24 40 38 18 60 18" stroke="#E0E0E0" stroke-width="2" fill="none"/>
+</svg>

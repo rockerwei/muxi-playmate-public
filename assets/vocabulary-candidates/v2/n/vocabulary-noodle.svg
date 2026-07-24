@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一碗麵條">
+  <title>Noodle</title>
+  <ellipse cx="60" cy="110" rx="34" ry="6" fill="rgba(0,0,0,0.12)"/>
+  <!-- bowl body -->
+  <path d="M20 68 Q22 106 60 106 Q98 106 100 68 Z" fill="#FF8A65"/>
+  <!-- bowl rim -->
+  <ellipse cx="60" cy="68" rx="40" ry="12" fill="#FF7043"/>
+  <!-- bowl inside top -->
+  <ellipse cx="60" cy="68" rx="36" ry="10" fill="#FF8A65"/>
+  <!-- broth/soup base -->
+  <ellipse cx="60" cy="72" rx="32" ry="8" fill="#FF9800" opacity="0.7"/>
+  <!-- noodle strands -->
+  <path d="M36 66 Q44 58 52 66 Q60 74 68 66 Q76 58 84 66" stroke="#FFF9C4" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M32 70 Q42 62 52 70 Q62 78 72 70 Q80 62 88 70" stroke="#FFF176" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M40 64 Q48 56 56 64 Q64 72 72 64 Q78 56 86 64" stroke="#FFF59D" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- garnish (green onion) -->
+  <ellipse cx="50" cy="62" rx="5" ry="3" fill="#4CAF50" transform="rotate(-20 50 62)"/>
+  <ellipse cx="72" cy="64" rx="4" ry="2.5" fill="#4CAF50" transform="rotate(10 72 64)"/>
+  <!-- chopsticks -->
+  <rect x="68" y="26" width="5" height="44" rx="2.5" fill="#8D6E63" transform="rotate(15 68 26)"/>
+  <rect x="76" y="24" width="5" height="44" rx="2.5" fill="#795548" transform="rotate(20 76 24)"/>
+  <!-- steam -->
+  <path d="M46 58 Q42 48 46 40" stroke="#E0E0E0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M60 54 Q56 44 60 36" stroke="#E0E0E0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M74 58 Q78 48 74 40" stroke="#E0E0E0" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+</svg>

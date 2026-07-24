@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻粉紅色小豬">
+  <title>Pig</title>
+  <ellipse cx="60" cy="108" rx="28" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- ears -->
+  <ellipse cx="38" cy="36" rx="12" ry="16" fill="#F48FB1" transform="rotate(-15 38 36)"/>
+  <ellipse cx="82" cy="36" rx="12" ry="16" fill="#F48FB1" transform="rotate(15 82 36)"/>
+  <ellipse cx="38" cy="37" rx="7" ry="10" fill="#F06292" transform="rotate(-15 38 37)"/>
+  <ellipse cx="82" cy="37" rx="7" ry="10" fill="#F06292" transform="rotate(15 82 37)"/>
+  <!-- body -->
+  <ellipse cx="60" cy="84" rx="30" ry="24" fill="#F48FB1"/>
+  <!-- head -->
+  <circle cx="60" cy="56" r="28" fill="#F48FB1"/>
+  <!-- snout -->
+  <ellipse cx="60" cy="67" rx="18" ry="13" fill="#F06292"/>
+  <!-- nostrils -->
+  <circle cx="53" cy="67" r="5" fill="#C2185B"/>
+  <circle cx="67" cy="67" r="5" fill="#C2185B"/>
+  <!-- eyes -->
+  <circle cx="46" cy="48" r="6" fill="#fff"/>
+  <circle cx="74" cy="48" r="6" fill="#fff"/>
+  <circle cx="47" cy="48" r="3.5" fill="#3a2a1a"/>
+  <circle cx="75" cy="48" r="3.5" fill="#3a2a1a"/>
+  <circle cx="48" cy="47" r="1.5" fill="#fff"/>
+  <circle cx="76" cy="47" r="1.5" fill="#fff"/>
+  <!-- smile -->
+  <path d="M50 74 Q60 80 70 74" stroke="#C2185B" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- tummy -->
+  <ellipse cx="60" cy="88" rx="16" ry="13" fill="#FCE4EC"/>
+  <!-- tail curl -->
+  <path d="M90 78 Q104 70 100 58 Q96 46 106 42" stroke="#F06292" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

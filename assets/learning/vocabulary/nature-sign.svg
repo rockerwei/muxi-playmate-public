@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Nature sign（大自然標示）對應的幼兒學習插圖">
+  <title>Nature sign</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><circle cx="60" cy="52" r="24" fill="#8E24AA"/>
+    <ellipse cx="48" cy="44" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
+    <line x1="60" y1="16" x2="60" y2="8" stroke="#546E7A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="60" y1="88" x2="60" y2="96" stroke="#546E7A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="28" y1="52" x2="20" y2="52" stroke="#546E7A" stroke-width="3" stroke-linecap="round"/>
+    <line x1="92" y1="52" x2="100" y2="52" stroke="#546E7A" stroke-width="3" stroke-linecap="round"/></g><rect x="78" y="18" width="24" height="16" rx="3" fill="#38BDF8"/><rect x="87" y="34" width="6" height="14" fill="#64748B"/>
+</svg>

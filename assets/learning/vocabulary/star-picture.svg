@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Star picture（星星圖片）對應的幼兒學習插圖">
+  <title>Star picture</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><title>Star</title>
+  <ellipse cx="60" cy="112" rx="24" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- glow -->
+  <circle cx="60" cy="56" r="34" fill="#FFF8E1" opacity="0.6"/>
+  <!-- star body -->
+  <polygon points="60,16 70,46 102,46 77,65 86,96 60,77 34,96 43,65 18,46 50,46" fill="#FFD600"/>
+  <!-- highlight -->
+  <polygon points="60,22 67,44 84,44 70,56 75,78 60,66 45,78 50,56 36,44 53,44" fill="#FFEE58" opacity="0.6"/>
+  <!-- center shine -->
+  <circle cx="60" cy="56" r="8" fill="#FFF59D" opacity="0.7"/>
+  <!-- sparkles -->
+  <circle cx="92" cy="24" r="4" fill="#FFD600" opacity="0.8"/>
+  <circle cx="28" cy="32" r="3" fill="#FFD600" opacity="0.7"/>
+  <circle cx="100" cy="72" r="3" fill="#FFD600" opacity="0.6"/></g><rect x="70" y="16" width="36" height="28" rx="3" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/><circle cx="82" cy="28" r="5" fill="#60A5FA"/><path d="M74 38 L84 30 L92 36 L98 32 L102 38 Z" fill="#34D399"/>
+</svg>

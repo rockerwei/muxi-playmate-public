@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻犛牛">
+  <title>Yak</title>
+  <ellipse cx="60" cy="110" rx="30" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- long shaggy fur bottom -->
+  <ellipse cx="60" cy="100" rx="35" ry="12" fill="#3a3028"/>
+  <!-- body -->
+  <ellipse cx="60" cy="82" rx="32" ry="24" fill="#4a3a2a"/>
+  <!-- shaggy sides -->
+  <ellipse cx="28" cy="85" rx="12" ry="18" fill="#3a2a1a"/>
+  <ellipse cx="92" cy="85" rx="12" ry="18" fill="#3a2a1a"/>
+  <!-- head -->
+  <ellipse cx="60" cy="46" rx="24" ry="22" fill="#4a3a2a"/>
+  <!-- face lighter area -->
+  <ellipse cx="60" cy="54" rx="16" ry="12" fill="#5a4838"/>
+  <!-- horns -->
+  <path d="M38 32 Q28 18 34 10 Q38 20 42 30" fill="#2a2018"/>
+  <path d="M82 32 Q92 18 86 10 Q82 20 78 30" fill="#2a2018"/>
+  <!-- eyes -->
+  <circle cx="48" cy="42" r="5" fill="#fff"/>
+  <circle cx="72" cy="42" r="5" fill="#fff"/>
+  <circle cx="49" cy="42" r="3" fill="#2a1a08"/>
+  <circle cx="73" cy="42" r="3" fill="#2a1a08"/>
+  <circle cx="50" cy="41" r="1" fill="#fff"/>
+  <circle cx="74" cy="41" r="1" fill="#fff"/>
+  <!-- nose -->
+  <ellipse cx="60" cy="57" rx="9" ry="7" fill="#3a2a1a"/>
+  <circle cx="56" cy="57" r="2.5" fill="#1a1008"/>
+  <circle cx="64" cy="57" r="2.5" fill="#1a1008"/>
+  <!-- ears -->
+  <ellipse cx="36" cy="36" rx="8" ry="6" fill="#4a3a2a" transform="rotate(-20 36 36)"/>
+  <ellipse cx="84" cy="36" rx="8" ry="6" fill="#4a3a2a" transform="rotate(20 84 36)"/>
+  <!-- shaggy chin fur -->
+  <ellipse cx="60" cy="68" rx="12" ry="8" fill="#3a2a1a"/>
+  <!-- legs -->
+  <rect x="36" y="102" width="12" height="10" rx="4" fill="#3a2a1a"/>
+  <rect x="52" y="102" width="12" height="10" rx="4" fill="#3a2a1a"/>
+  <rect x="56" y="102" width="12" height="10" rx="4" fill="#3a2a1a"/>
+  <rect x="72" y="102" width="12" height="10" rx="4" fill="#3a2a1a"/>
+</svg>

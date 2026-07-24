@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻咖啡色貓頭鷹">
+  <title>Owl</title>
+  <ellipse cx="60" cy="108" rx="22" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- body -->
+  <ellipse cx="60" cy="80" rx="28" ry="30" fill="#795548"/>
+  <!-- wing left -->
+  <ellipse cx="36" cy="80" rx="12" ry="20" fill="#6D4C41" transform="rotate(-10 36 80)"/>
+  <!-- wing right -->
+  <ellipse cx="84" cy="80" rx="12" ry="20" fill="#6D4C41" transform="rotate(10 84 80)"/>
+  <!-- belly -->
+  <ellipse cx="60" cy="84" rx="18" ry="22" fill="#BCAAA4"/>
+  <!-- belly stripes -->
+  <path d="M48 76 Q60 74 72 76" stroke="#A1887F" stroke-width="2" fill="none"/>
+  <path d="M46 83 Q60 81 74 83" stroke="#A1887F" stroke-width="2" fill="none"/>
+  <path d="M48 90 Q60 88 72 90" stroke="#A1887F" stroke-width="2" fill="none"/>
+  <!-- head -->
+  <circle cx="60" cy="46" r="28" fill="#795548"/>
+  <!-- ear tufts -->
+  <polygon points="46,22 40,6 54,18" fill="#6D4C41"/>
+  <polygon points="74,22 80,6 66,18" fill="#6D4C41"/>
+  <!-- eye rings -->
+  <circle cx="46" cy="46" r="13" fill="#FFF9C4"/>
+  <circle cx="74" cy="46" r="13" fill="#FFF9C4"/>
+  <circle cx="46" cy="46" r="9" fill="#FFB300"/>
+  <circle cx="74" cy="46" r="9" fill="#FFB300"/>
+  <!-- pupils -->
+  <circle cx="47" cy="46" r="6" fill="#1a1a2e"/>
+  <circle cx="75" cy="46" r="6" fill="#1a1a2e"/>
+  <circle cx="48" cy="45" r="2" fill="#fff"/>
+  <circle cx="76" cy="45" r="2" fill="#fff"/>
+  <!-- beak -->
+  <polygon points="60,54 54,62 66,62" fill="#FF8F00"/>
+  <!-- feet -->
+  <path d="M48 106 Q44 102 40 106" stroke="#FF8F00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M44 106 Q44 100 44 106" stroke="#FF8F00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M72 106 Q76 102 80 106" stroke="#FF8F00" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M76 106 Q76 100 76 106" stroke="#FF8F00" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

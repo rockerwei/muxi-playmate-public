@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 X-ray game（X 光片遊戲）對應的幼兒學習插圖">
+  <title>X-ray game</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="30" y="34" width="60" height="52" rx="8" fill="#00897B" stroke="#EC407A" stroke-width="3"/>
+    <ellipse cx="42" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/></g><rect x="72" y="18" width="30" height="22" rx="6" fill="#6366F1"/><circle cx="80" cy="29" r="3" fill="#EEF2FF"/><circle cx="94" cy="29" r="3" fill="#EEF2FF"/><rect x="86" y="27" width="2" height="4" fill="#EEF2FF"/>
+</svg>

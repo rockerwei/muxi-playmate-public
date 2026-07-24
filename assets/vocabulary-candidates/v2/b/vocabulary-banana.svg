@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一根黃色香蕉">
+  <title>Banana</title>
+  <!-- shadow -->
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- banana body -->
+  <path d="M30 90 C28 70 35 40 55 20 C65 10 80 12 88 22 C78 18 68 22 58 38 C44 58 40 82 44 100 Z" fill="#FDD835"/>
+  <!-- outer curve -->
+  <path d="M30 90 C28 70 35 40 55 20 C65 10 80 12 88 22" stroke="#F9A825" stroke-width="2" fill="none"/>
+  <!-- highlight stripe -->
+  <path d="M40 72 C38 60 42 44 52 30" stroke="rgba(255,255,255,0.45)" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- tip top -->
+  <path d="M55 20 C55 16 58 13 62 12" stroke="#795548" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- tip bottom -->
+  <path d="M44 100 C44 104 46 108 48 109" stroke="#795548" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>

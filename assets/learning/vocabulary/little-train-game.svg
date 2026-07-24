@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Little train game（小火車遊戲）對應的幼兒學習插圖">
+  <title>Little train game</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="24" y="52" width="72" height="24" rx="10" fill="#43A047"/>
+    <ellipse cx="36" cy="58" rx="10" ry="6" fill="rgba(255,255,255,0.28)"/>
+    <rect x="34" y="42" width="34" height="18" rx="6" fill="#00897B"/>
+    <circle cx="38" cy="78" r="10" fill="#334155"/><circle cx="38" cy="78" r="4" fill="#CBD5E1"/>
+    <circle cx="82" cy="78" r="10" fill="#334155"/><circle cx="82" cy="78" r="4" fill="#CBD5E1"/></g><rect x="72" y="18" width="30" height="22" rx="6" fill="#6366F1"/><circle cx="80" cy="29" r="3" fill="#EEF2FF"/><circle cx="94" cy="29" r="3" fill="#EEF2FF"/><rect x="86" y="27" width="2" height="4" fill="#EEF2FF"/>
+</svg>

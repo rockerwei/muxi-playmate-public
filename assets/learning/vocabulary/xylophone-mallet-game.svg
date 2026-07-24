@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="與英文單字 Xylophone mallet game（木琴棒遊戲）對應的幼兒學習插圖">
+  <title>Xylophone mallet game</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="42" cy="78" rx="16" ry="12" fill="#6D4C41"/>
+    <rect x="54" y="30" width="6" height="48" fill="#E53935"/>
+    <path d="M60 30 Q78 24 84 34 Q78 42 60 36" fill="#E53935"/>
+    <ellipse cx="40" cy="72" rx="6" ry="4" fill="rgba(255,255,255,0.28)"/></g><rect x="72" y="18" width="30" height="22" rx="6" fill="#6366F1"/><circle cx="80" cy="29" r="3" fill="#EEF2FF"/><circle cx="94" cy="29" r="3" fill="#EEF2FF"/><rect x="86" y="27" width="2" height="4" fill="#EEF2FF"/>
+</svg>
