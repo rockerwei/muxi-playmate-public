@@ -8,7 +8,7 @@
       <key>PayloadType</key><string>com.apple.webClip.managed</string>
       <key>PayloadVersion</key><integer>1</integer>
       <key>PayloadIdentifier</key><string>com.muxilabs.playmate.webclip</string>
-      <key>PayloadUUID</key><string>653887D3-86A8-428D-BA29-EA98D10D6B1E</string>
+      <key>PayloadUUID</key><string>B7F1D902-8E4A-4C3B-AF2D-6E9B7C3D5F40</string>
       <key>PayloadDisplayName</key><string>Muxi Playmate</string>
       <key>PayloadDescription</key><string>在主畫面建立 Muxi Labs 幼童陪讀網站捷徑。</string>
       <key>PayloadOrganization</key><string>Muxi Labs</string>
@@ -23,9 +23,9 @@
   <key>PayloadType</key><string>Configuration</string>
   <key>PayloadVersion</key><integer>1</integer>
   <key>PayloadIdentifier</key><string>com.muxilabs.playmate.profile</string>
-  <key>PayloadUUID</key><string>001AB2A1-8F8E-4F2E-AB52-C83802C3E06F</string>
+  <key>PayloadUUID</key><string>A4E2C891-7D3F-4B2A-9E1C-5F8D6A2B4C3E</string>
   <key>PayloadDisplayName</key><string>Muxi Playmate 主畫面捷徑</string>
-  <key>PayloadDescription</key><string>只建立 Muxi Labs 幼童陪讀網站捷徑，不會管理裝置或安裝憑證。版本 1.0.0。</string>
+  <key>PayloadDescription</key><string>只建立 Muxi Labs 幼童陪讀網站捷徑，不會管理裝置或安裝憑證。版本 1.1.0。</string>
   <key>PayloadOrganization</key><string>Muxi Labs</string>
   <key>PayloadRemovalDisallowed</key><false/>
 </dict>
