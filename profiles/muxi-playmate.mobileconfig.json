@@ -1,10 +1,10 @@
 {
   "name": "muxi-playmate.mobileconfig",
-  "environment": "production",
-  "version": "1.1.0",
-  "sha256": "e1064c79b49ec6f7d0b1cc695099caa5ef4b7c1484c3d9f2c5f258d93a688d7c",
+  "environment": "stage",
+  "version": "1.1.0-stage.1",
+  "sha256": "5f77875a60cba977332c19b2e273bb74732c626875278c2bc652bb17dd2ee9ec",
   "generatedAt": "2026-07-23T00:00:00.000Z",
-  "appUrl": "https://playmate.muxilabs.com/",
-  "profileUrl": "https://playmate.muxilabs.com/profiles/muxi-playmate.mobileconfig",
+  "appUrl": "https://rockerwei.github.io/muxi-playmate-public/",
+  "profileUrl": "https://rockerwei.github.io/muxi-playmate-public/profiles/muxi-playmate.mobileconfig",
   "signed": false
 }
