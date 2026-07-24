@@ -2,6 +2,7 @@
 <html lang="zh-TW">
   <head>
     <meta charset="UTF-8" />
+    <meta name="muxi-build-id" content="96f2912" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
     <!-- Theme color -->
@@ -136,12 +137,71 @@
       name="twitter:image:alt"
       content="Muxi Playmate — Interactive early-childhood learning by Muxi Labs"
     />
-    <script type="module" crossorigin src="/muxi-playmate-public/assets/index-wEkNo9KQ.js"></script>
+    <script type="module" crossorigin src="/muxi-playmate-public/assets/index-BNzIyv4T.js"></script>
     <link rel="modulepreload" crossorigin href="/muxi-playmate-public/assets/vendor-n9xOPtvf.js">
     <link rel="modulepreload" crossorigin href="/muxi-playmate-public/assets/router-vbJ5ZMVx.js">
     <link rel="stylesheet" crossorigin href="/muxi-playmate-public/assets/index-C8t2NvJS.css">
   <link rel="manifest" href="/muxi-playmate-public/manifest.webmanifest"></head>
   <body>
     <div id="root"></div>
+    <script id="pwa-bootstrap">(function () {
+  var BUILD_ID = '96f2912';
+  var STORAGE_KEY = 'muxilabs-playmate:build-id';
+  var RELOAD_KEY = 'muxilabs-playmate:migration-reload';
+  var didReload = false;
+
+  function reloadOnce() {
+    if (didReload) return;
+    didReload = true;
+    window.location.reload();
+  }
+
+  function clearRuntimeCaches() {
+    var tasks = [];
+    if ('serviceWorker' in navigator) {
+      tasks.push(
+        navigator.serviceWorker.getRegistrations().then(function (regs) {
+          return Promise.all(regs.map(function (reg) { return reg.unregister(); }));
+        }),
+      );
+    }
+    if ('caches' in window) {
+      tasks.push(
+        caches.keys().then(function (keys) {
+          return Promise.all(keys.map(function (key) { return caches.delete(key); }));
+        }),
+      );
+    }
+    return Promise.all(tasks);
+  }
+
+  try {
+    var stored = localStorage.getItem(STORAGE_KEY);
+    if (stored && stored !== BUILD_ID) {
+      if (sessionStorage.getItem(RELOAD_KEY) === BUILD_ID) {
+        localStorage.setItem(STORAGE_KEY, BUILD_ID);
+        sessionStorage.removeItem(RELOAD_KEY);
+      } else {
+        clearRuntimeCaches().then(function () {
+          localStorage.setItem(STORAGE_KEY, BUILD_ID);
+          sessionStorage.setItem(RELOAD_KEY, BUILD_ID);
+          reloadOnce();
+        });
+        return;
+      }
+    } else {
+      localStorage.setItem(STORAGE_KEY, BUILD_ID);
+    }
+  } catch (error) {
+    console.warn('[PWA bootstrap] migration skipped:', error);
+  }
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.addEventListener('controllerchange', reloadOnce);
+    navigator.serviceWorker.addEventListener('message', function (event) {
+      if (event.data && event.data.type === 'SW_ACTIVATED_RELOAD') reloadOnce();
+    });
+  }
+})();</script>
   </body>
 </html>
