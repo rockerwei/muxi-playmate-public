@@ -7,12 +7,12 @@
     <dict>
       <key>PayloadType</key><string>com.apple.webClip.managed</string>
       <key>PayloadVersion</key><integer>1</integer>
-      <key>PayloadIdentifier</key><string>com.muxilabs.playmate.stage.webclip</string>
-      <key>PayloadUUID</key><string>D9B3A275-4E6C-4F82-A731-7A4D9C6E2F58</string>
-      <key>PayloadDisplayName</key><string>Muxi Playmate Stage</string>
+      <key>PayloadIdentifier</key><string>com.muxilabs.playmate.webclip</string>
+      <key>PayloadUUID</key><string>B7F1D902-8E4A-4C3B-AF2D-6E9B7C3D5F40</string>
+      <key>PayloadDisplayName</key><string>Muxi Playmate</string>
       <key>PayloadDescription</key><string>在主畫面建立 Muxi Labs 幼童陪讀網站捷徑。</string>
       <key>PayloadOrganization</key><string>Muxi Labs</string>
-      <key>Label</key><string>Muxi Playmate Stage</string>
+      <key>Label</key><string>Muxi Playmate</string>
       <key>URL</key><string>https://rockerwei.github.io/muxi-playmate-public/</string>
       <key>IsRemovable</key><true/>
       <key>FullScreen</key><true/>
@@ -22,10 +22,10 @@
   </array>
   <key>PayloadType</key><string>Configuration</string>
   <key>PayloadVersion</key><integer>1</integer>
-  <key>PayloadIdentifier</key><string>com.muxilabs.playmate.stage.profile</string>
-  <key>PayloadUUID</key><string>C8A2F164-3D5B-4E71-9A20-6F3C8B5D1E47</string>
-  <key>PayloadDisplayName</key><string>Muxi Playmate Stage 主畫面捷徑</string>
-  <key>PayloadDescription</key><string>只建立 Muxi Labs 幼童陪讀網站捷徑，不會管理裝置或安裝憑證。版本 1.1.0-stage.1。</string>
+  <key>PayloadIdentifier</key><string>com.muxilabs.playmate.profile</string>
+  <key>PayloadUUID</key><string>A4E2C891-7D3F-4B2A-9E1C-5F8D6A2B4C3E</string>
+  <key>PayloadDisplayName</key><string>Muxi Playmate 主畫面捷徑</string>
+  <key>PayloadDescription</key><string>只建立 Muxi Labs 幼童陪讀網站捷徑，不會管理裝置或安裝憑證。版本 1.1.0。</string>
   <key>PayloadOrganization</key><string>Muxi Labs</string>
   <key>PayloadRemovalDisallowed</key><false/>
 </dict>

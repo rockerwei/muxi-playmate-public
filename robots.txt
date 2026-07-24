@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://playmate.muxilabs.com/sitemap.xml
+Sitemap: https://rockerwei.github.io/muxi-playmate-public/sitemap.xml
