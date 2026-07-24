@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一串紫色葡萄">
+  <title>Grape</title>
+  <ellipse cx="60" cy="112" rx="22" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- stem -->
+  <path d="M60 22 Q56 14 52 10" stroke="#5D4037" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- leaf -->
+  <path d="M52 16 Q44 8 48 2 Q56 4 58 14 Q56 16 52 16 Z" fill="#4CAF50"/>
+  <!-- top row (3) -->
+  <circle cx="44" cy="38" r="14" fill="#7B1FA2"/>
+  <circle cx="60" cy="34" r="14" fill="#8E24AA"/>
+  <circle cx="76" cy="38" r="14" fill="#7B1FA2"/>
+  <!-- highlights top row -->
+  <circle cx="40" cy="32" r="5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="56" cy="28" r="5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="72" cy="32" r="5" fill="rgba(255,255,255,0.35)"/>
+  <!-- middle row (3) -->
+  <circle cx="36" cy="62" r="14" fill="#8E24AA"/>
+  <circle cx="60" cy="58" r="14" fill="#9C27B0"/>
+  <circle cx="84" cy="62" r="14" fill="#8E24AA"/>
+  <!-- highlights middle -->
+  <circle cx="32" cy="56" r="5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="56" cy="52" r="5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="80" cy="56" r="5" fill="rgba(255,255,255,0.35)"/>
+  <!-- bottom row (2) -->
+  <circle cx="48" cy="86" r="14" fill="#7B1FA2"/>
+  <circle cx="72" cy="86" r="14" fill="#8E24AA"/>
+  <!-- highlights bottom -->
+  <circle cx="44" cy="80" r="5" fill="rgba(255,255,255,0.35)"/>
+  <circle cx="68" cy="80" r="5" fill="rgba(255,255,255,0.35)"/>
+  <!-- bottom single -->
+  <circle cx="60" cy="106" r="12" fill="#9C27B0"/>
+  <circle cx="56" cy="100" r="4" fill="rgba(255,255,255,0.35)"/>
+</svg>

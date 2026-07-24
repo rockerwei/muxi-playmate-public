@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一盒白色牛奶">
+  <title>Milk</title>
+  <ellipse cx="60" cy="110" rx="24" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- carton body -->
+  <rect x="34" y="50" width="52" height="58" rx="4" fill="#FAFAFA"/>
+  <!-- carton front label area -->
+  <rect x="36" y="70" width="48" height="28" rx="2" fill="#E3F2FD"/>
+  <!-- milk label cow spots -->
+  <circle cx="50" cy="80" r="6" fill="#BDBDBD"/>
+  <circle cx="56" cy="88" r="4" fill="#BDBDBD"/>
+  <circle cx="66" cy="78" r="5" fill="#BDBDBD"/>
+  <circle cx="72" cy="86" r="4" fill="#BDBDBD"/>
+  <!-- Milk text area (white bar) -->
+  <rect x="40" y="92" width="40" height="8" rx="3" fill="#fff"/>
+  <!-- carton roof left flap -->
+  <path d="M34 50 L60 30 L60 50 Z" fill="#E3F2FD"/>
+  <!-- carton roof right flap -->
+  <path d="M86 50 L60 30 L60 50 Z" fill="#BBDEFB"/>
+  <!-- carton roof top seam -->
+  <line x1="60" y1="30" x2="60" y2="50" stroke="#90CAF9" stroke-width="2"/>
+  <!-- pour spout hint -->
+  <rect x="52" y="24" width="16" height="8" rx="4" fill="#BBDEFB"/>
+  <!-- carton side shadow -->
+  <rect x="80" y="50" width="6" height="58" rx="2" fill="#E0E0E0"/>
+</svg>

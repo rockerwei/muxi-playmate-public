@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一杯橘色果汁">
+  <title>Juice</title>
+  <ellipse cx="60" cy="110" rx="22" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- straw -->
+  <rect x="72" y="18" width="7" height="56" rx="3.5" fill="#EF5350"/>
+  <!-- glass body -->
+  <path d="M38 44 Q36 108 84 108 Q112 108 82 44 Z" fill="rgba(255,152,0,0.20)"/>
+  <!-- juice fill -->
+  <path d="M40 56 Q38 108 82 108 Q110 108 80 56 Z" fill="#FF9800"/>
+  <!-- glass outline -->
+  <path d="M38 44 Q36 108 84 108 Q112 108 82 44 Z" fill="none" stroke="#E0E0E0" stroke-width="3"/>
+  <!-- glass rim -->
+  <ellipse cx="60" cy="44" rx="22" ry="7" fill="#E0E0E0"/>
+  <!-- juice surface -->
+  <ellipse cx="60" cy="56" rx="20" ry="6" fill="#FFB300"/>
+  <!-- bubbles in juice -->
+  <circle cx="52" cy="72" r="4" fill="rgba(255,255,255,0.30)"/>
+  <circle cx="68" cy="80" r="3" fill="rgba(255,255,255,0.30)"/>
+  <circle cx="58" cy="90" r="3" fill="rgba(255,255,255,0.25)"/>
+  <!-- glass shine -->
+  <path d="M44 52 Q42 80 44 100" stroke="rgba(255,255,255,0.50)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- straw highlight -->
+  <rect x="73" y="20" width="2" height="50" rx="1" fill="rgba(255,255,255,0.4)"/>
+</svg>

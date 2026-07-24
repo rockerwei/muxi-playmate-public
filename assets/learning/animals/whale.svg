@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻藍色鯨魚">
+  <title>Whale</title>
+  <ellipse cx="60" cy="108" rx="32" ry="6" fill="rgba(0,0,0,0.10)"/>
+  <!-- body -->
+  <ellipse cx="56" cy="70" rx="46" ry="30" fill="#1976D2"/>
+  <!-- belly -->
+  <ellipse cx="52" cy="78" rx="32" ry="18" fill="#90CAF9"/>
+  <!-- tail fin -->
+  <path d="M100 70 Q116 55 108 44 Q100 58 96 60 Q104 48 96 38 Q88 54 96 60" fill="#1565C0"/>
+  <!-- pectoral fin -->
+  <ellipse cx="36" cy="90" rx="14" ry="8" fill="#1565C0" transform="rotate(30 36 90)"/>
+  <!-- head area -->
+  <circle cx="24" cy="64" r="24" fill="#1976D2"/>
+  <!-- eye -->
+  <circle cx="22" cy="58" r="7" fill="#fff"/>
+  <circle cx="23" cy="58" r="4" fill="#1a1a2e"/>
+  <circle cx="24" cy="57" r="1.5" fill="#fff"/>
+  <!-- smile -->
+  <path d="M16 70 Q24 78 36 72" stroke="#0D47A1" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- blowhole spray -->
+  <ellipse cx="28" cy="44" rx="4" ry="3" fill="#1976D2"/>
+  <path d="M28 42 Q24 32 26 22" stroke="#90CAF9" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M28 42 Q32 30 34 20" stroke="#90CAF9" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M28 42 Q28 28 28 18" stroke="#BBDEFB" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

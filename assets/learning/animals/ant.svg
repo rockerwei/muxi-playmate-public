@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="一隻紅色螞蟻">
+  <title>Ant</title>
+  <ellipse cx="60" cy="110" rx="18" ry="5" fill="rgba(0,0,0,0.10)"/>
+  <!-- legs left -->
+  <line x1="44" y1="74" x2="28" y2="88" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <line x1="44" y1="80" x2="24" y2="82" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <line x1="44" y1="86" x2="28" y2="98" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <!-- legs right -->
+  <line x1="76" y1="74" x2="92" y2="88" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="80" x2="96" y2="82" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="86" x2="92" y2="98" stroke="#C62828" stroke-width="3" stroke-linecap="round"/>
+  <!-- abdomen (rear) -->
+  <ellipse cx="60" cy="90" rx="22" ry="18" fill="#E53935"/>
+  <!-- thorax (middle) -->
+  <ellipse cx="60" cy="68" rx="14" ry="12" fill="#C62828"/>
+  <!-- head -->
+  <circle cx="60" cy="48" r="18" fill="#E53935"/>
+  <!-- antennae -->
+  <path d="M52 34 Q44 20 36 14" stroke="#C62828" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="36" cy="14" r="4" fill="#B71C1C"/>
+  <path d="M68 34 Q76 20 84 14" stroke="#C62828" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="84" cy="14" r="4" fill="#B71C1C"/>
+  <!-- eyes -->
+  <circle cx="50" cy="44" r="5" fill="#fff"/>
+  <circle cx="70" cy="44" r="5" fill="#fff"/>
+  <circle cx="51" cy="44" r="3" fill="#1a1a2e"/>
+  <circle cx="71" cy="44" r="3" fill="#1a1a2e"/>
+  <circle cx="52" cy="43" r="1" fill="#fff"/>
+  <circle cx="72" cy="43" r="1" fill="#fff"/>
+  <!-- mandibles / smile -->
+  <path d="M52 56 Q60 62 68 56" stroke="#B71C1C" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
