@@ -2,7 +2,12 @@
   <title>Jungle</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#00897B"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#EC407A"/>
+  <!-- 叢林 -->
+<rect x="14" y="70" width="92" height="26" rx="2" fill="#558B2F"/>
+<ellipse cx="36" cy="58" rx="18" ry="28" fill="#2E7D32"/>
+<ellipse cx="60" cy="50" rx="22" ry="34" fill="#388E3C"/>
+<ellipse cx="84" cy="58" rx="18" ry="28" fill="#2E7D32"/>
+<ellipse cx="48" cy="44" rx="14" ry="22" fill="#43A047"/>
+<ellipse cx="72" cy="46" rx="14" ry="22" fill="#43A047"/>
+<circle cx="88" cy="28" r="8" fill="#FFEE58" opacity="0.8"/>
 </svg>

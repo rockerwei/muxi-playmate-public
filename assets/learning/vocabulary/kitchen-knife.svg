@@ -2,9 +2,12 @@
   <title>Kitchen knife</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FDD835"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#8E24AA"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#8E24AA"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 廚房菜刀 -->
+<rect x="62" y="14" width="40" height="16" rx="6" fill="#8D6E63"/>
+<rect x="66" y="18" width="32" height="8" rx="3" fill="#795548"/>
+<path d="M66 26 L16 60 Q14 70 20 76 Q26 82 36 76 L78 30 Z" fill="#CFD8DC"/>
+<path d="M68 26 L22 58 Q18 68 24 74 L80 28 Z" fill="#ECEFF1"/>
+<path d="M68 26 L76 30 L26 76 L18 72 Z" fill="#B0BEC5"/>
+<line x1="30" y1="72" x2="70" y2="30" stroke="#ECEFF1" stroke-width="1" opacity="0.6"/>
+<ellipse cx="48" cy="50" rx="20" ry="8" fill="rgba(255,255,255,0.22)" transform="rotate(-30 48 50)"/>
 </svg>

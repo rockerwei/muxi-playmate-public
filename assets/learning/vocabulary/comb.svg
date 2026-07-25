@@ -2,7 +2,11 @@
   <title>Comb</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/>
+  <!-- 梳子 -->
+<rect x="56" y="20" width="8" height="48" rx="3" fill="#8D6E63"/>
+  <rect x="34" y="68" width="52" height="16" rx="4" fill="#FB8C00"/>
+  <rect x="38" y="72" width="6" height="20" rx="2" fill="#1E88E5"/>
+  <rect x="48" y="72" width="6" height="20" rx="2" fill="#1E88E5"/>
+  <rect x="58" y="72" width="6" height="20" rx="2" fill="#1E88E5"/>
+  <rect x="68" y="72" width="6" height="20" rx="2" fill="#1E88E5"/>
 </svg>

@@ -2,9 +2,19 @@
   <title>House</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FB8C00"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#1E88E5"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#1E88E5"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 房子 -->
+<path d="M16 58 L60 18 L104 58 Z" fill="#E53935"/>
+<path d="M18 56 L60 20 L102 56" fill="none" stroke="#B71C1C" stroke-width="2"/>
+<rect x="22" y="56" width="76" height="46" rx="2" fill="#FFEB3B"/>
+<rect x="24" y="58" width="72" height="42" rx="1" fill="#FFF176"/>
+<rect x="36" y="68" width="18" height="18" rx="2" fill="#90CAF9"/>
+<line x1="45" y1="68" x2="45" y2="86" stroke="#64B5F6" stroke-width="1.5"/>
+<line x1="36" y1="77" x2="54" y2="77" stroke="#64B5F6" stroke-width="1.5"/>
+<rect x="66" y="68" width="18" height="18" rx="2" fill="#90CAF9"/>
+<line x1="75" y1="68" x2="75" y2="86" stroke="#64B5F6" stroke-width="1.5"/>
+<line x1="66" y1="77" x2="84" y2="77" stroke="#64B5F6" stroke-width="1.5"/>
+<rect x="48" y="76" width="16" height="26" rx="2" fill="#795548"/>
+<circle cx="62" cy="89" r="2" fill="#FFD54F"/>
+<path d="M72 20 L80 18 L80 32 L76 30 Z" fill="#B71C1C"/>
+<rect x="76" y="26" width="5" height="5" rx="1" fill="#FFEE58"/>
 </svg>

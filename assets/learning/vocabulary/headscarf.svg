@@ -2,7 +2,10 @@
   <title>Headscarf</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 頭巾 -->
+<ellipse cx="60" cy="48" rx="28" ry="22" fill="#7B1FA2"/>
+<path d="M32 48 Q28 68 36 88 Q48 78 60 82 Q72 78 84 88 Q92 68 88 48" fill="#9C27B0"/>
+<path d="M36 52 Q60 38 84 52" fill="#AB47BC"/>
+<ellipse cx="60" cy="44" rx="16" ry="10" fill="rgba(255,255,255,0.18)"/>
+<circle cx="60" cy="58" r="4" fill="#CE93D8" opacity="0.6"/>
 </svg>

@@ -2,7 +2,8 @@
   <title>Coin</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#546E7A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FB8C00"/>
+  <!-- 硬幣 -->
+<circle cx="60" cy="58" r="28" fill="#FB8C00"/>
+  <circle cx="60" cy="58" r="20" fill="none" stroke="#FFD54F" stroke-width="3"/>
+  <rect x="52" y="52" width="16" height="12" rx="2" fill="#FFD54F" opacity="0.8"/>
 </svg>

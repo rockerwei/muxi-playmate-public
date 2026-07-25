@@ -2,7 +2,11 @@
   <title>Hammer</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 鐵鎚 -->
+<rect x="54" y="28" width="28" height="22" rx="4" fill="#78909C"/>
+<rect x="52" y="26" width="32" height="8" rx="2" fill="#607D8B"/>
+<rect x="57" y="48" width="10" height="52" rx="4" fill="#8D6E63"/>
+<rect x="56" y="46" width="12" height="8" rx="2" fill="#6D4C41"/>
+<ellipse cx="68" cy="34" rx="10" ry="6" fill="rgba(255,255,255,0.25)"/>
+<ellipse cx="62" cy="72" rx="6" ry="14" fill="rgba(255,255,255,0.12)"/>
 </svg>

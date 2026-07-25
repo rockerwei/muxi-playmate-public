@@ -2,9 +2,18 @@
   <title>Kitchen table</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#6D4C41"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#E53935"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#E53935"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 廚房餐桌 -->
+<rect x="14" y="44" width="92" height="10" rx="4" fill="#8D6E63"/>
+<rect x="20" y="54" width="6" height="44" rx="3" fill="#795548"/>
+<rect x="94" y="54" width="6" height="44" rx="3" fill="#795548"/>
+<rect x="16" y="46" width="88" height="8" rx="2" fill="#A1887F"/>
+<ellipse cx="60" cy="44" rx="44" ry="5" fill="rgba(255,255,255,0.18)"/>
+<ellipse cx="36" cy="38" rx="10" ry="14" fill="#ECEFF1" stroke="#CFD8DC" stroke-width="1.5"/>
+<ellipse cx="84" cy="38" rx="10" ry="14" fill="#ECEFF1" stroke="#CFD8DC" stroke-width="1.5"/>
+<circle cx="36" cy="36" r="5" fill="#FF7043"/>
+<ellipse cx="36" cy="34" rx="3" ry="2" fill="rgba(255,255,255,0.28)"/>
+<circle cx="84" cy="36" r="5" fill="#42A5F5"/>
+<ellipse cx="84" cy="34" rx="3" ry="2" fill="rgba(255,255,255,0.28)"/>
+<rect x="48" y="36" width="24" height="8" rx="3" fill="#795548"/>
+<rect x="50" y="30" width="20" height="6" rx="2" fill="#8D6E63"/>
 </svg>

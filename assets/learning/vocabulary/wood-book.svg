@@ -2,7 +2,30 @@
   <title>Wood book</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="54" y="24" width="12" height="56" rx="4" fill="#546E7A"/>
-    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#8E24AA"/>
-    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/></g><path d="M68 20 H98 V44 H68 Z" fill="#F97316"/><path d="M68 20 C74 24 92 24 98 20" fill="none" stroke="#EA580C" stroke-width="2"/><line x1="83" y1="20" x2="83" y2="44" stroke="#EA580C" stroke-width="1.5"/>
+  
+  <!-- book shadow -->
+  <rect x="17" y="25" width="88" height="66" rx="5" fill="rgba(0,0,0,0.08)"/>
+  <!-- left page / back cover -->
+  <rect x="14" y="22" width="46" height="64" rx="4" fill="#BBDEFB"/>
+  <!-- left page lines -->
+  <rect x="20" y="32" width="30" height="2.5" rx="1.25" fill="#90CAF9"/>
+  <rect x="20" y="40" width="26" height="2.5" rx="1.25" fill="#90CAF9"/>
+  <rect x="20" y="48" width="28" height="2.5" rx="1.25" fill="#90CAF9"/>
+  <rect x="20" y="56" width="22" height="2.5" rx="1.25" fill="#90CAF9"/>
+  <!-- right cover -->
+  <rect x="60" y="22" width="46" height="64" rx="4" fill="#1976D2"/>
+  <!-- book spine -->
+  <rect x="55" y="22" width="10" height="64" rx="2" fill="#1565C0"/>
+  <line x1="60" y1="22" x2="60" y2="86" stroke="#0D47A1" stroke-width="1"/>
+  <!-- subject on right cover, scaled and offset -->
+  <g transform="translate(60,22) scale(0.48)"><title>Wood</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <rect x="54" y="24" width="12" height="56" rx="4" fill="#6D4C41"/>
+    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#1E88E5"/>
+    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/></g>
+  <!-- right cover bottom label -->
+  <rect x="65" y="76" width="36" height="6" rx="3" fill="rgba(255,255,255,0.18)"/>
+  <!-- page edges top -->
+  <path d="M14 22 Q60 18 106 22" fill="none" stroke="#E3F2FD" stroke-width="1.5"/>
 </svg>

@@ -2,7 +2,11 @@
   <title>Image</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 畫框 -->
+<rect x="20" y="24" width="80" height="68" rx="4" fill="#8B5E3C"/>
+<rect x="26" y="30" width="68" height="56" rx="2" fill="#FFFFFF"/>
+<rect x="32" y="36" width="56" height="44" rx="2" fill="#81D4FA"/>
+<circle cx="52" cy="52" r="8" fill="#FFEB3B"/>
+<path d="M36 68 L50 54 L62 66 L76 48" fill="none" stroke="#4CAF50" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="44" cy="42" rx="6" ry="4" fill="rgba(255,255,255,0.22)"/>
 </svg>

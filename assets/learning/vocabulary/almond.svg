@@ -2,7 +2,9 @@
   <title>Almond</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 杏仁 -->
+<rect x="30" y="32" width="60" height="52" rx="12" fill="#43A047"/>
+  <ellipse cx="46" cy="46" rx="10" ry="7" fill="rgba(255,255,255,0.28)"/>
+  <rect x="42" y="54" width="36" height="6" rx="3" fill="#00897B"/>
+  <rect x="46" y="64" width="28" height="4" rx="2" fill="#00897B" opacity="0.6"/>
 </svg>

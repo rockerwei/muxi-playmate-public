@@ -2,7 +2,12 @@
   <title>Hedgehog den</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 刺蝟窩 -->
+<ellipse cx="60" cy="78" rx="34" ry="16" fill="#8D6E63"/>
+<ellipse cx="60" cy="72" rx="30" ry="14" fill="#A1887F"/>
+<path d="M32 72 Q36 58 44 62 Q52 56 60 58 Q68 56 76 62 Q84 58 88 72" fill="#6D4C41"/>
+<circle cx="48" cy="66" r="4" fill="#FFEB3B"/>
+<circle cx="60" cy="64" r="5" fill="#FFC107"/>
+<circle cx="72" cy="66" r="4" fill="#FFEB3B"/>
+<ellipse cx="60" cy="68" rx="12" ry="6" fill="#795548"/>
 </svg>

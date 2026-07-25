@@ -2,7 +2,11 @@
   <title>Haze</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#00897B"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#EC407A"/>
+  <!-- 霾 -->
+<rect x="14" y="28" width="92" height="36" rx="6" fill="#90A4AE" opacity="0.35"/>
+<rect x="14" y="40" width="92" height="36" rx="6" fill="#B0BEC5" opacity="0.45"/>
+<rect x="14" y="52" width="92" height="36" rx="6" fill="#CFD8DC" opacity="0.55"/>
+<ellipse cx="36" cy="72" rx="14" ry="8" fill="#78909C" opacity="0.5"/>
+<ellipse cx="84" cy="68" rx="16" ry="9" fill="#78909C" opacity="0.5"/>
+<ellipse cx="60" cy="80" rx="20" ry="10" fill="#607D8B" opacity="0.4"/>
 </svg>

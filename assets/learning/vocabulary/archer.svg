@@ -2,8 +2,7 @@
   <title>Archer</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <circle cx="60" cy="34" r="15" fill="#00897B"/>
-    <path d="M38 92 Q38 64 60 60 Q82 64 82 92 Z" fill="#43A047"/>
-    <path d="M46 78 H74" stroke="#00897B" stroke-width="4" stroke-linecap="round"/>
-    <ellipse cx="54" cy="30" rx="5" ry="4" fill="rgba(255,255,255,0.28)"/>
+  <!-- 弓箭手 -->
+<path d="M24 60 L84 60" stroke="#8E24AA" stroke-width="6" stroke-linecap="round"/>
+  <path d="M72 48 L96 60 L72 72 Z" fill="#8E24AA"/>
 </svg>

@@ -2,9 +2,9 @@
   <title>Catfish</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <ellipse cx="60" cy="62" rx="34" ry="22" fill="#8E24AA"/>
-      <ellipse cx="48" cy="54" rx="10" ry="6" fill="rgba(255,255,255,0.28)"/>
-      <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#546E7A"/>
-      <circle cx="78" cy="54" r="4" fill="#111827"/><circle cx="79" cy="53" r="1.2" fill="#FFFFFF"/>
-      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#546E7A" stroke-width="3" stroke-linecap="round"/>
+  <!-- 鯰魚 -->
+<ellipse cx="56" cy="58" rx="28" ry="18" fill="#FDD835"/>
+  <path d="M84 58 L98 48 L98 68 Z" fill="#8E24AA"/>
+  <circle cx="44" cy="54" r="3" fill="#37474F"/>
+  <ellipse cx="48" cy="50" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
 </svg>

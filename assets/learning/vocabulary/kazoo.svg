@@ -2,9 +2,17 @@
   <title>Kazoo</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FB8C00"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#1E88E5"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#1E88E5"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 卡祖笛 -->
+<rect x="18" y="48" width="70" height="24" rx="12" fill="#E91E63"/>
+<rect x="20" y="50" width="66" height="20" rx="10" fill="#F06292"/>
+<ellipse cx="52" cy="58" rx="28" ry="8" fill="rgba(255,255,255,0.22)"/>
+<rect x="88" y="44" width="16" height="32" rx="4" fill="#AD1457"/>
+<ellipse cx="96" cy="50" rx="6" ry="3" fill="rgba(255,255,255,0.20)"/>
+<circle cx="88" cy="60" r="4" fill="#880E4F"/>
+<rect x="24" y="56" width="8" height="4" rx="2" fill="#C2185B" opacity="0.6"/>
+<rect x="36" y="56" width="8" height="4" rx="2" fill="#C2185B" opacity="0.6"/>
+<rect x="48" y="56" width="8" height="4" rx="2" fill="#C2185B" opacity="0.6"/>
+<rect x="60" y="56" width="8" height="4" rx="2" fill="#C2185B" opacity="0.6"/>
+<path d="M22 50 Q18 45 14 48 Q12 55 18 58" fill="none" stroke="#E91E63" stroke-width="3" stroke-linecap="round"/>
+<path d="M14 48 Q10 44 12 40" stroke="#F48FB1" stroke-width="2" stroke-linecap="round"/>
 </svg>

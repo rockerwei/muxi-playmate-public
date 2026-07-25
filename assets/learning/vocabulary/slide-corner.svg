@@ -2,7 +2,22 @@
   <title>Slide corner</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
+  
+  <!-- background sheet -->
+  <rect x="20" y="44" width="84" height="64" rx="5" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <!-- sheet lines -->
+  <rect x="28" y="56" width="60" height="3" rx="1.5" fill="#CBD5E1"/>
+  <rect x="28" y="66" width="52" height="3" rx="1.5" fill="#E2E8F0"/>
+  <rect x="28" y="76" width="56" height="3" rx="1.5" fill="#E2E8F0"/>
+  <rect x="28" y="86" width="44" height="3" rx="1.5" fill="#E2E8F0"/>
+  <!-- corner triangle badge -->
+  <polygon points="4,4 72,4 4,72" fill="#E91E63" opacity="0.16"/>
+  <polygon points="4,4 58,4 4,58" fill="#E91E63" opacity="0.12"/>
+  <!-- subject scaled to top-left corner area -->
+  <g transform="translate(-4,-4) scale(0.42)"><title>Slide</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
     <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/></g><path d="M86 18 H104 V36" fill="none" stroke="#94A3B8" stroke-width="3" stroke-linecap="round"/><circle cx="92" cy="24" r="3" fill="#FBBF24"/>
+    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/></g>
 </svg>

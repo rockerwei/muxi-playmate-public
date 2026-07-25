@@ -2,7 +2,9 @@
   <title>Carrot</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#8E24AA"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#546E7A"/>
+  <!-- 紅蘿蔔 -->
+<rect x="20" y="52" width="80" height="28" rx="10" fill="#43A047"/>
+  <rect x="34" y="42" width="38" height="16" rx="6" fill="#00897B"/>
+  <circle cx="36" cy="82" r="10" fill="#334155"/><circle cx="36" cy="82" r="4" fill="#94A3B8"/>
+  <circle cx="84" cy="82" r="10" fill="#334155"/><circle cx="84" cy="82" r="4" fill="#94A3B8"/>
 </svg>

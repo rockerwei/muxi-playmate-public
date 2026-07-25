@@ -2,7 +2,10 @@
   <title>Jug</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#8E24AA"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#546E7A"/>
+  <!-- 大水壺 -->
+<path d="M38 36 Q38 28 60 28 Q82 28 82 36 L86 84 Q86 94 60 94 Q34 94 34 84 Z" fill="#42A5F5"/>
+<path d="M42 38 Q42 32 60 32 Q78 32 78 38 L82 82 Q82 90 60 90 Q38 90 38 82 Z" fill="#64B5F6"/>
+<rect x="48" y="22" width="24" height="10" rx="2" fill="#1976D2"/>
+<path d="M82 48 Q92 48 92 56 L92 64 Q92 68 82 68" fill="none" stroke="#1976D2" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="50" cy="48" rx="8" ry="10" fill="rgba(255,255,255,0.22)"/>
 </svg>

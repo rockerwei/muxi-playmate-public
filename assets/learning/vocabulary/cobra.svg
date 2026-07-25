@@ -2,7 +2,9 @@
   <title>Cobra</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="54" y="24" width="12" height="56" rx="4" fill="#00897B"/>
-    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#43A047"/>
-    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
+  <!-- 眼鏡蛇 -->
+<ellipse cx="60" cy="56" rx="28" ry="34" fill="#CFD8DC"/>
+  <ellipse cx="60" cy="52" rx="22" ry="28" fill="#ECEFF1"/>
+  <rect x="52" y="82" width="16" height="12" rx="2" fill="#78909C"/>
+  <ellipse cx="50" cy="44" rx="8" ry="10" fill="rgba(255,255,255,0.28)"/>
 </svg>

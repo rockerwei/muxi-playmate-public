@@ -2,7 +2,13 @@
   <title>Journal</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 日記本 -->
+<rect x="32" y="24" width="56" height="76" rx="4" fill="#8D6E63"/>
+<rect x="36" y="28" width="48" height="68" rx="2" fill="#FFF8E1"/>
+<rect x="42" y="38" width="32" height="3" rx="1.5" fill="#BCAAA4"/>
+<rect x="42" y="48" width="28" height="3" rx="1.5" fill="#D7CCC8"/>
+<rect x="42" y="58" width="30" height="3" rx="1.5" fill="#D7CCC8"/>
+<rect x="72" y="32" width="4" height="60" rx="1" fill="#EF5350"/>
+<rect x="78" y="68" width="14" height="4" rx="1" fill="#FFD54F" transform="rotate(-45 85 70)"/>
+<rect x="80" y="72" width="10" height="3" rx="1" fill="#FFB74D" transform="rotate(-45 85 73)"/>
 </svg>

@@ -2,7 +2,12 @@
   <title>Jack-o-lantern</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FB8C00"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#1E88E5"/>
+  <!-- 南瓜燈 -->
+<ellipse cx="60" cy="62" rx="32" ry="28" fill="#FB8C00"/>
+<ellipse cx="60" cy="58" rx="28" ry="24" fill="#FF9800"/>
+<path d="M44 32 Q60 18 76 32" fill="none" stroke="#558B2F" stroke-width="4" stroke-linecap="round"/>
+<path d="M48 58 L44 66 L52 66 Z" fill="#37474F"/>
+<path d="M68 58 L64 66 L72 66 Z" fill="#37474F"/>
+<path d="M52 74 Q60 80 68 74" fill="none" stroke="#37474F" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="50" cy="50" rx="8" ry="6" fill="rgba(255,255,255,0.22)"/>
 </svg>

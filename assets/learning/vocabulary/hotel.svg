@@ -2,7 +2,15 @@
   <title>Hotel</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 高樓酒店 -->
+<rect x="34" y="24" width="52" height="72" rx="3" fill="#78909C"/>
+<rect x="38" y="28" width="44" height="64" rx="2" fill="#90A4AE"/>
+<rect x="42" y="34" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="56" y="34" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="70" y="34" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="42" y="50" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="56" y="50" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="70" y="50" width="10" height="10" rx="1" fill="#BBDEFB"/>
+<rect x="52" y="72" width="16" height="20" rx="1" fill="#5D4037"/>
+<rect x="48" y="20" width="24" height="6" rx="1" fill="#E53935"/>
 </svg>

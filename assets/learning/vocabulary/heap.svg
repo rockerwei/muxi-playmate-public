@@ -2,7 +2,12 @@
   <title>Heap</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 一堆東西 -->
+<ellipse cx="44" cy="78" rx="18" ry="10" fill="#78909C"/>
+<ellipse cx="60" cy="72" rx="22" ry="12" fill="#90A4AE"/>
+<ellipse cx="76" cy="78" rx="18" ry="10" fill="#607D8B"/>
+<rect x="38" y="58" width="14" height="12" rx="2" fill="#EF5350" transform="rotate(-12 45 64)"/>
+<rect x="54" y="52" width="16" height="14" rx="2" fill="#42A5F5" transform="rotate(8 62 59)"/>
+<rect x="68" y="60" width="12" height="10" rx="2" fill="#FFEB3B" transform="rotate(-6 74 65)"/>
+<ellipse cx="60" cy="66" rx="8" ry="4" fill="rgba(255,255,255,0.20)"/>
 </svg>

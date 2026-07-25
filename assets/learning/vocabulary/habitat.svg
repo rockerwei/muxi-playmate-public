@@ -2,7 +2,14 @@
   <title>Habitat</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 棲息地 -->
+<rect x="14" y="72" width="92" height="28" rx="4" fill="#8BC34A"/>
+<rect x="28" y="48" width="64" height="28" rx="6" fill="#795548"/>
+<ellipse cx="60" cy="48" rx="34" ry="10" fill="#6D4C41"/>
+<path d="M28 48 L60 22 L92 48 Z" fill="#5D4037"/>
+<circle cx="44" cy="58" r="5" fill="#4CAF50"/>
+<circle cx="76" cy="58" r="5" fill="#66BB6A"/>
+<ellipse cx="60" cy="62" rx="18" ry="8" fill="#3E2723"/>
+<path d="M52 62 Q60 56 68 62" fill="none" stroke="#8D6E63" stroke-width="2"/>
+<ellipse cx="60" cy="36" rx="12" ry="6" fill="rgba(255,255,255,0.22)"/>
 </svg>

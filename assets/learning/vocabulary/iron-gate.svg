@@ -2,7 +2,15 @@
   <title>Iron gate</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/>
+  <!-- 鐵門 -->
+<rect x="22" y="28" width="76" height="68" rx="2" fill="#455A64"/>
+<rect x="28" y="34" width="30" height="56" rx="1" fill="none" stroke="#78909C" stroke-width="3"/>
+<rect x="62" y="34" width="30" height="56" rx="1" fill="none" stroke="#78909C" stroke-width="3"/>
+<line x1="28" y1="48" x2="58" y2="48" stroke="#78909C" stroke-width="2"/>
+<line x1="28" y1="62" x2="58" y2="62" stroke="#78909C" stroke-width="2"/>
+<line x1="28" y1="76" x2="58" y2="76" stroke="#78909C" stroke-width="2"/>
+<line x1="62" y1="48" x2="92" y2="48" stroke="#78909C" stroke-width="2"/>
+<line x1="62" y1="62" x2="92" y2="62" stroke="#78909C" stroke-width="2"/>
+<circle cx="56" cy="62" r="4" fill="#FFD54F"/>
+<circle cx="64" cy="62" r="4" fill="#FFD54F"/>
 </svg>

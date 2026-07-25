@@ -2,9 +2,16 @@
   <title>Broom</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#00897B"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#EC407A"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#EC407A"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 掃帚 -->
+<rect x="57" y="16" width="8" height="52" rx="4" fill="#8D6E63"/>
+<rect x="56" y="15" width="10" height="6" rx="2" fill="#6D4C41"/>
+<path d="M30 68 Q60 60 90 68 L88 98 Q60 104 32 98 Z" fill="#F9A825"/>
+<path d="M34 70 Q38 68 38 98" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M42 68 Q44 66 44 98" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M50 67 Q52 65 52 99" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M60 66 Q60 64 60 100" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M68 67 Q68 65 68 99" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M76 68 Q76 66 76 98" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M84 70 Q82 68 82 98" fill="none" stroke="#F57F17" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="60" cy="70" rx="30" ry="4" fill="rgba(255,255,255,0.20)"/>
 </svg>

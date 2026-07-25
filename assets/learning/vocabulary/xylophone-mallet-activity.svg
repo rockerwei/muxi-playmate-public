@@ -2,8 +2,29 @@
   <title>Xylophone mallet activity</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="42" cy="78" rx="16" ry="12" fill="#8E24AA"/>
-    <rect x="54" y="30" width="6" height="48" fill="#546E7A"/>
-    <path d="M60 30 Q78 24 84 34 Q78 42 60 36" fill="#546E7A"/>
-    <ellipse cx="40" cy="72" rx="6" ry="4" fill="rgba(255,255,255,0.28)"/></g><circle cx="88" cy="28" r="12" fill="#34D399"/><path d="M82 28 L86 32 L95 22" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- paper shadow -->
+  <rect x="17" y="15" width="88" height="96" rx="5" fill="rgba(0,0,0,0.06)"/>
+  <!-- paper -->
+  <rect x="14" y="12" width="88" height="96" rx="5" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <!-- title bar -->
+  <rect x="14" y="12" width="88" height="22" rx="5" fill="#3B82F6"/>
+  <rect x="14" y="25" width="88" height="9" fill="#3B82F6"/>
+  <!-- title lines -->
+  <rect x="22" y="18" width="34" height="4" rx="2" fill="rgba(255,255,255,0.55)"/>
+  <!-- activity lines -->
+  <rect x="22" y="42" width="56" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <rect x="22" y="52" width="50" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <rect x="22" y="62" width="54" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <rect x="22" y="72" width="46" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <rect x="22" y="82" width="52" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <rect x="22" y="92" width="40" height="2.5" rx="1.25" fill="#E2E8F0"/>
+  <!-- small subject top-right -->
+  <g transform="translate(64,26) scale(0.38)"><title>Xylophone mallet</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <ellipse cx="42" cy="78" rx="16" ry="12" fill="#EC407A"/>
+    <rect x="54" y="30" width="6" height="48" fill="#FDD835"/>
+    <path d="M60 30 Q78 24 84 34 Q78 42 60 36" fill="#FDD835"/>
+    <ellipse cx="40" cy="72" rx="6" ry="4" fill="rgba(255,255,255,0.28)"/></g>
 </svg>

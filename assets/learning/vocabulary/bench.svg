@@ -2,7 +2,10 @@
   <title>Bench</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#546E7A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FB8C00"/>
+  <!-- 長椅 -->
+<rect x="34" y="48" width="52" height="10" rx="3" fill="#E53935"/>
+  <rect x="38" y="58" width="44" height="8" rx="2" fill="#43A047"/>
+  <rect x="38" y="66" width="6" height="22" rx="2" fill="#795548"/>
+  <rect x="76" y="66" width="6" height="22" rx="2" fill="#795548"/>
+  <rect x="34" y="32" width="52" height="18" rx="3" fill="#E53935"/>
 </svg>

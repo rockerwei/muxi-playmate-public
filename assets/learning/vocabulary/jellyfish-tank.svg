@@ -2,7 +2,12 @@
   <title>Jellyfish tank</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 水母缸 -->
+<rect x="28" y="32" width="64" height="56" rx="4" fill="#B3E5FC" stroke="#0288D1" stroke-width="2"/>
+<rect x="32" y="36" width="56" height="48" rx="2" fill="#E1F5FE"/>
+<ellipse cx="60" cy="52" rx="14" ry="8" fill="#CE93D8" opacity="0.8"/>
+<path d="M52 58 Q50 72 48 80" fill="none" stroke="#AB47BC" stroke-width="2" stroke-linecap="round"/>
+<path d="M60 58 Q60 74 60 82" fill="none" stroke="#AB47BC" stroke-width="2" stroke-linecap="round"/>
+<path d="M68 58 Q70 72 72 80" fill="none" stroke="#AB47BC" stroke-width="2" stroke-linecap="round"/>
+<rect x="28" y="28" width="64" height="6" rx="2" fill="#546E7A"/>
 </svg>

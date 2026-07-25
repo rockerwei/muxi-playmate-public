@@ -2,9 +2,19 @@
   <title>Market</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FDD835"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#8E24AA"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#8E24AA"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 市場 -->
+<path d="M14 50 L14 38 L40 28 L40 50 Z" fill="#E53935"/>
+<path d="M40 50 L40 28 L66 38 L66 50 Z" fill="#FFEB3B"/>
+<path d="M60 50 L60 32 L86 22 L86 50 Z" fill="#42A5F5"/>
+<path d="M80 50 L80 32 L106 42 L106 50 Z" fill="#66BB6A"/>
+<rect x="14" y="50" width="26" height="46" rx="2" fill="#EF9A9A"/>
+<rect x="40" y="50" width="26" height="46" rx="2" fill="#FFF9C4"/>
+<rect x="60" y="50" width="26" height="46" rx="2" fill="#BBDEFB"/>
+<rect x="80" y="50" width="26" height="46" rx="2" fill="#C8E6C9"/>
+<circle cx="27" cy="68" r="7" fill="#FF7043"/>
+<circle cx="27" cy="82" r="6" fill="#FF5722"/>
+<circle cx="53" cy="66" r="6" fill="#FFCC02"/>
+<circle cx="53" cy="78" r="6" fill="#FFA000"/>
+<path d="M66 65 Q72 60 76 68 Q78 74 72 76 Q66 78 64 72 Z" fill="#66BB6A"/>
+<path d="M86 66 Q92 60 96 70 Q96 78 90 78 Q84 76 84 68 Z" fill="#4CAF50"/>
 </svg>

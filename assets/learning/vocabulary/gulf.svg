@@ -2,9 +2,14 @@
   <title>Gulf</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#00897B"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#EC407A"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#EC407A"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 海灣 -->
+<rect x="14" y="14" width="92" height="52" rx="4" fill="#29B6F6"/>
+<path d="M14 55 Q35 35 60 32 Q85 35 106 55 L106 100 L14 100 Z" fill="#F5F5DC"/>
+<path d="M16 57 Q37 38 60 35 Q83 38 104 57 L104 66 Q83 46 60 43 Q37 46 16 66 Z" fill="#E8D5A3"/>
+<ellipse cx="60" cy="50" rx="38" ry="30" fill="#29B6F6"/>
+<path d="M22 60 Q40 42 60 40 Q80 42 98 60" fill="none" stroke="#81D4FA" stroke-width="2" opacity="0.7"/>
+<path d="M28 68 Q44 52 60 50 Q76 52 92 68" fill="none" stroke="#81D4FA" stroke-width="1.5" opacity="0.5"/>
+<path d="M14 55 Q35 38 60 35 Q85 38 106 55" fill="none" stroke="#0288D1" stroke-width="2"/>
+<circle cx="28" cy="28" r="5" fill="#FFEE58"/>
+<path d="M28 28 L32 24 M28 28 L34 28 M28 28 L32 32 M28 28 L24 24 M28 28 L22 28 M28 28 L24 32" stroke="#FFEE58" stroke-width="1.5" stroke-linecap="round"/>
 </svg>

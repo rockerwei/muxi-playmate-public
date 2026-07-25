@@ -2,7 +2,14 @@
   <title>Judo</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#546E7A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FB8C00"/>
+  <!-- 柔道 -->
+<circle cx="48" cy="38" r="12" fill="#FFCC80"/>
+<rect x="38" y="50" width="20" height="24" rx="4" fill="#FFFFFF"/>
+<rect x="40" y="52" width="16" height="20" rx="3" fill="#F5F5F5"/>
+<path d="M38 58 L28 72" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<path d="M58 58 L68 72" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+<circle cx="72" cy="42" r="12" fill="#FFCC80"/>
+<rect x="62" y="54" width="20" height="24" rx="4" fill="#1565C0"/>
+<path d="M62 60 L52 74" stroke="#1565C0" stroke-width="6" stroke-linecap="round"/>
+<path d="M82 60 L92 74" stroke="#1565C0" stroke-width="6" stroke-linecap="round"/>
 </svg>

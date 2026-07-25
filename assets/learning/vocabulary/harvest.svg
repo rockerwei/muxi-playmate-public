@@ -2,7 +2,13 @@
   <title>Harvest</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 收割稻穗 -->
+<rect x="14" y="78" width="92" height="18" rx="3" fill="#FFD54F"/>
+<path d="M38 78 Q36 50 40 28" fill="none" stroke="#F9A825" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="40" cy="24" rx="10" ry="14" fill="#FFEB3B" transform="rotate(-15 40 24)"/>
+<path d="M60 78 Q58 48 62 24" fill="none" stroke="#F9A825" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="62" cy="20" rx="10" ry="14" fill="#FFEB3B" transform="rotate(10 62 20)"/>
+<path d="M82 78 Q80 52 84 30" fill="none" stroke="#F9A825" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="84" cy="26" rx="10" ry="14" fill="#FFEB3B" transform="rotate(-8 84 26)"/>
+<rect x="48" y="70" width="24" height="8" rx="2" fill="#8D6E63"/>
 </svg>

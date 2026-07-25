@@ -2,7 +2,8 @@
   <title>Kangaroo</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 袋鼠 -->
+<path d="M34 46 Q34 32 60 32 Q86 32 86 46 L90 96 Q90 100 60 100 Q30 100 30 96 Z" fill="#FDD835"/>
+  <path d="M46 44 Q46 28 60 28 Q74 28 74 44" fill="none" stroke="#8E24AA" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="44" cy="52" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
 </svg>

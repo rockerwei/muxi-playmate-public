@@ -2,7 +2,13 @@
   <title>Joystick</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FB8C00"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#1E88E5"/>
+  <!-- 遊戲搖桿 -->
+<rect x="34" y="68" width="52" height="20" rx="6" fill="#37474F"/>
+<rect x="38" y="72" width="44" height="12" rx="4" fill="#546E7A"/>
+<rect x="56" y="32" width="8" height="40" rx="3" fill="#78909C"/>
+<circle cx="60" cy="28" r="14" fill="#E53935"/>
+<circle cx="60" cy="28" r="10" fill="#EF5350"/>
+<circle cx="56" cy="24" r="4" fill="rgba(255,255,255,0.25)"/>
+<rect x="42" y="76" width="8" height="6" rx="2" fill="#455A64"/>
+<rect x="70" y="76" width="8" height="6" rx="2" fill="#455A64"/>
 </svg>

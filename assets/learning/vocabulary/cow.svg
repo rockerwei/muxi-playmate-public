@@ -2,11 +2,12 @@
   <title>Cow</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <ellipse cx="60" cy="68" rx="28" ry="22" fill="#6D4C41"/>
-    <circle cx="60" cy="42" r="18" fill="#6D4C41"/>
-    <ellipse cx="52" cy="38" rx="7" ry="5" fill="rgba(255,255,255,0.28)"/>
-    <circle cx="66" cy="40" r="3" fill="#111827"/><circle cx="67" cy="39" r="1" fill="#FFFFFF"/>
-    <ellipse cx="44" cy="34" rx="6" ry="8" fill="#E53935"/><ellipse cx="76" cy="34" rx="6" ry="8" fill="#E53935"/>
-    <path d="M36 68 Q28 58 24 48" stroke="#E53935" stroke-width="4" stroke-linecap="round" fill="none"/>
-    <path d="M84 68 Q92 58 96 48" stroke="#E53935" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- 牛 -->
+<ellipse cx="60" cy="70" rx="28" ry="22" fill="#FB8C00"/>
+  <circle cx="60" cy="44" r="18" fill="#FB8C00"/>
+  <ellipse cx="48" cy="36" rx="7" ry="9" fill="#1E88E5"/>
+  <ellipse cx="72" cy="36" rx="7" ry="9" fill="#1E88E5"/>
+  <circle cx="55" cy="42" r="4" fill="#111827"/><circle cx="56" cy="41" r="1.5" fill="#fff"/>
+  <circle cx="65" cy="42" r="4" fill="#111827"/><circle cx="66" cy="41" r="1.5" fill="#fff"/>
+  <path d="M82 84 Q96 78 96 66" stroke="#FB8C00" stroke-width="8" stroke-linecap="round" fill="none"/>
 </svg>

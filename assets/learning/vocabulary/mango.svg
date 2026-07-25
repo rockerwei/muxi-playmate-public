@@ -2,8 +2,9 @@
   <title>Mango</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <path d="M60 28 C42 28 30 42 30 62 C30 84 44 98 60 98 C76 98 90 84 90 62 C90 42 78 28 60 28 Z" fill="#00897B"/>
-    <ellipse cx="45" cy="48" rx="9" ry="6" fill="rgba(255,255,255,0.28)"/>
-    <path d="M60 28 C60 18 66 12 70 10" stroke="#EC407A" stroke-width="3" stroke-linecap="round" fill="none"/>
-    <path d="M64 14 C70 8 78 10 76 18 C74 24 65 22 64 14 Z" fill="#EC407A"/>
+  <!-- 芒果 -->
+<circle cx="60" cy="58" r="28" fill="#FDD835"/>
+  <ellipse cx="48" cy="48" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
+  <path d="M60 30 Q60 22 64 20" stroke="#8E24AA" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M62 22 Q68 16 74 20 Q72 26 65 24 Z" fill="#8E24AA"/>
 </svg>

@@ -2,7 +2,11 @@
   <title>Hacksaw</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#8E24AA"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#546E7A"/>
+  <!-- 手鋸 -->
+<rect x="24" y="44" width="72" height="14" rx="3" fill="#90A4AE"/>
+<path d="M24 51 L18 58 L24 65" fill="#78909C"/>
+<path d="M30 44 L96 44 L96 58 L30 58 Z" fill="none" stroke="#546E7A" stroke-width="2"/>
+<path d="M34 44 L38 58 M42 44 L46 58 M50 44 L54 58 M58 44 L62 58 M66 44 L70 58 M74 44 L78 58 M82 44 L86 58 M90 44 L94 58" stroke="#37474F" stroke-width="1.5"/>
+<rect x="18" y="52" width="10" height="8" rx="2" fill="#8D6E63"/>
+<ellipse cx="60" cy="48" rx="28" ry="5" fill="rgba(255,255,255,0.18)"/>
 </svg>

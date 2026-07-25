@@ -2,9 +2,21 @@
   <title>Greenhouse</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#E53935"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#43A047"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#43A047"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 溫室 -->
+<rect x="18" y="60" width="84" height="40" rx="2" fill="#B2EBF2"/>
+<rect x="18" y="60" width="84" height="40" rx="2" fill="none" stroke="#80CBC4" stroke-width="2"/>
+<path d="M18 60 Q60 20 102 60" fill="#B2DFDB"/>
+<path d="M18 60 Q60 20 102 60" fill="none" stroke="#80CBC4" stroke-width="2"/>
+<line x1="60" y1="22" x2="60" y2="60" stroke="#80CBC4" stroke-width="1.5"/>
+<line x1="39" y1="38" x2="39" y2="60" stroke="#80CBC4" stroke-width="1.5"/>
+<line x1="81" y1="38" x2="81" y2="60" stroke="#80CBC4" stroke-width="1.5"/>
+<line x1="20" y1="50" x2="100" y2="50" stroke="#80CBC4" stroke-width="1.5"/>
+<line x1="22" y1="42" x2="98" y2="42" stroke="#80CBC4" stroke-width="1.5"/>
+<line x1="30" y1="34" x2="90" y2="34" stroke="#80CBC4" stroke-width="1.5"/>
+<rect x="42" y="68" width="10" height="32" rx="1" fill="#5D4037"/>
+<circle cx="47" cy="62" r="8" fill="#4CAF50"/>
+<rect x="64" y="72" width="10" height="28" rx="1" fill="#5D4037"/>
+<circle cx="69" cy="66" r="8" fill="#66BB6A"/>
+<path d="M30 78 Q36 68 40 80" fill="none" stroke="#2E7D32" stroke-width="3" stroke-linecap="round"/>
+<path d="M78 76 Q84 66 88 78" fill="none" stroke="#388E3C" stroke-width="3" stroke-linecap="round"/>
 </svg>

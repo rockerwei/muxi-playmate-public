@@ -2,7 +2,10 @@
   <title>Alarm</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="54" y="24" width="12" height="56" rx="4" fill="#546E7A"/>
-    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#8E24AA"/>
-    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
+  <!-- 鬧鐘 -->
+<circle cx="60" cy="58" r="28" fill="#8E24AA"/>
+  <circle cx="60" cy="58" r="22" fill="#FFFFFF"/>
+  <line x1="60" y1="58" x2="60" y2="42" stroke="#37474F" stroke-width="3" stroke-linecap="round"/>
+  <line x1="60" y1="58" x2="72" y2="58" stroke="#37474F" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="60" cy="58" r="3" fill="#37474F"/>
 </svg>

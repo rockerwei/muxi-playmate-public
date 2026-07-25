@@ -2,7 +2,8 @@
   <title>Flag</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/>
+  <!-- 旗子 -->
+<rect x="52" y="24" width="6" height="72" rx="2" fill="#795548"/>
+  <rect x="22" y="32" width="56" height="36" rx="4" fill="#FDD835"/>
+  <rect x="28" y="38" width="32" height="6" rx="2" fill="#8E24AA"/>
 </svg>

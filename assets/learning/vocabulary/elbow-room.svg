@@ -2,9 +2,20 @@
   <title>Elbow room</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FDD835"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#8E24AA"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#8E24AA"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 活動空間 -->
+<rect x="14" y="30" width="92" height="70" rx="6" fill="#E3F2FD"/>
+<rect x="14" y="30" width="92" height="70" rx="6" fill="none" stroke="#90CAF9" stroke-width="2.5"/>
+<line x1="14" y1="30" x2="14" y2="100" stroke="#42A5F5" stroke-width="2"/>
+<line x1="106" y1="30" x2="106" y2="100" stroke="#42A5F5" stroke-width="2"/>
+<line x1="14" y1="100" x2="106" y2="100" stroke="#42A5F5" stroke-width="2"/>
+<line x1="14" y1="30" x2="106" y2="30" stroke="#42A5F5" stroke-width="2"/>
+<circle cx="38" cy="58" r="10" fill="#FFB74D"/>
+<line x1="38" y1="68" x2="38" y2="84" stroke="#795548" stroke-width="4" stroke-linecap="round"/>
+<line x1="38" y1="84" x2="30" y2="96" stroke="#795548" stroke-width="3" stroke-linecap="round"/>
+<line x1="38" y1="84" x2="46" y2="96" stroke="#795548" stroke-width="3" stroke-linecap="round"/>
+<line x1="38" y1="72" x2="22" y2="66" stroke="#795548" stroke-width="3" stroke-linecap="round"/>
+<line x1="38" y1="72" x2="54" y2="66" stroke="#795548" stroke-width="3" stroke-linecap="round"/>
+<path d="M58 60 L70 55 M70 55 L68 51 M70 55 L66 58" stroke="#1976D2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M58 70 L70 75 M70 75 L66 72 M70 75 L68 79" stroke="#1976D2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80 48 L80 82 M80 48 L76 52 M80 48 L84 52" stroke="#1976D2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -2,7 +2,15 @@
   <title>Keyboard</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 電腦鍵盤 -->
+<rect x="18" y="44" width="84" height="36" rx="6" fill="#37474F"/>
+<rect x="22" y="48" width="76" height="28" rx="4" fill="#546E7A"/>
+<rect x="26" y="52" width="8" height="6" rx="1" fill="#CFD8DC"/>
+<rect x="38" y="52" width="8" height="6" rx="1" fill="#ECEFF1"/>
+<rect x="50" y="52" width="8" height="6" rx="1" fill="#CFD8DC"/>
+<rect x="62" y="52" width="8" height="6" rx="1" fill="#ECEFF1"/>
+<rect x="74" y="52" width="8" height="6" rx="1" fill="#CFD8DC"/>
+<rect x="86" y="52" width="8" height="6" rx="1" fill="#ECEFF1"/>
+<rect x="30" y="62" width="56" height="6" rx="1" fill="#B0BEC5"/>
+<ellipse cx="32" cy="50" rx="4" ry="2" fill="rgba(255,255,255,0.12)"/>
 </svg>

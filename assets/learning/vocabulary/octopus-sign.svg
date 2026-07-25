@@ -2,9 +2,25 @@
   <title>Octopus sign</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="60" cy="62" rx="34" ry="22" fill="#00897B"/>
+  
+  <!-- pole -->
+  <rect x="56" y="76" width="8" height="36" rx="3" fill="#795548"/>
+  <!-- sign board shadow -->
+  <rect x="17" y="19" width="88" height="60" rx="9" fill="rgba(0,0,0,0.07)"/>
+  <!-- sign board -->
+  <rect x="14" y="16" width="88" height="60" rx="8" fill="#FFFFFF" stroke="#42A5F5" stroke-width="3.5"/>
+  <!-- subject scaled and centered in sign -->
+  <g transform="translate(16,18) scale(0.56)"><title>Octopus</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <ellipse cx="60" cy="62" rx="34" ry="22" fill="#6D4C41"/>
       <ellipse cx="48" cy="54" rx="10" ry="6" fill="rgba(255,255,255,0.28)"/>
-      <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#EC407A"/>
+      <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#E53935"/>
       <circle cx="78" cy="54" r="4" fill="#111827"/><circle cx="79" cy="53" r="1.2" fill="#FFFFFF"/>
-      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#EC407A" stroke-width="3" stroke-linecap="round"/></g><rect x="78" y="18" width="24" height="16" rx="3" fill="#38BDF8"/><rect x="87" y="34" width="6" height="14" fill="#64748B"/>
+      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#E53935" stroke-width="3" stroke-linecap="round"/></g>
+  <!-- sign bolt decorations -->
+  <circle cx="22" cy="24" r="3" fill="#90CAF9"/>
+  <circle cx="98" cy="24" r="3" fill="#90CAF9"/>
+  <circle cx="22" cy="68" r="3" fill="#90CAF9"/>
+  <circle cx="98" cy="68" r="3" fill="#90CAF9"/>
 </svg>

@@ -2,7 +2,11 @@
   <title>Kayak</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FB8C00"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#1E88E5"/>
+  <!-- 獨木舟 -->
+<path d="M18 62 Q60 48 102 62 L98 78 Q60 88 22 78 Z" fill="#FF7043"/>
+<path d="M22 64 Q60 52 98 64 L96 76 Q60 84 24 76 Z" fill="#FF8A65"/>
+<ellipse cx="60" cy="66" rx="32" ry="6" fill="#BF360C" opacity="0.3"/>
+<rect x="56" y="38" width="8" height="28" rx="2" fill="#8D6E63"/>
+<path d="M52 38 L64 38 L60 32 Z" fill="#795548"/>
+<ellipse cx="48" cy="60" rx="8" ry="3" fill="rgba(255,255,255,0.18)"/>
 </svg>

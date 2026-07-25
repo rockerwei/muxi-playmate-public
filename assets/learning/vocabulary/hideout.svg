@@ -2,7 +2,12 @@
   <title>Hideout</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#546E7A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FB8C00"/>
+  <!-- 秘密基地樹屋 -->
+<rect x="48" y="62" width="8" height="28" rx="2" fill="#795548"/>
+<rect x="30" y="38" width="44" height="28" rx="4" fill="#8D6E63"/>
+<path d="M26 38 L52 18 L78 38 Z" fill="#558B2F"/>
+<rect x="48" y="50" width="10" height="12" rx="1" fill="#5D4037"/>
+<circle cx="38" cy="52" r="5" fill="#FFEB3B" opacity="0.8"/>
+<path d="M20 90 Q40 70 60 74 Q80 70 100 90" fill="#4CAF50"/>
+<ellipse cx="52" cy="44" rx="8" ry="5" fill="rgba(255,255,255,0.18)"/>
 </svg>

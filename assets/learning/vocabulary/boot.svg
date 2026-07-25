@@ -2,7 +2,7 @@
   <title>Boot</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/>
+  <!-- 靴子 -->
+<path d="M28 68 Q28 52 48 48 L78 48 Q92 48 92 64 L92 78 Q92 86 72 86 L36 86 Q24 86 24 74 Z" fill="#1E88E5"/>
+  <path d="M32 66 Q32 56 48 54 L74 54 Q84 54 84 64 L84 74 Q84 80 70 80 L38 80 Q30 80 30 70 Z" fill="#EC407A"/>
 </svg>

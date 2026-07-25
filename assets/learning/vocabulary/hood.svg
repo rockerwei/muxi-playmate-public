@@ -2,7 +2,8 @@
   <title>Hood</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <path d="M36 38 Q60 28 84 38 L92 92 Q60 84 28 92 Z" fill="#00897B"/>
-    <circle cx="60" cy="34" r="10" fill="none" stroke="#EC407A" stroke-width="4"/>
-    <ellipse cx="48" cy="52" rx="10" ry="12" fill="rgba(255,255,255,0.28)"/>
+  <!-- 帽兜 -->
+<path d="M28 64 Q60 28 92 64 L88 76 Q60 84 32 76 Z" fill="#FDD835"/>
+  <rect x="26" y="62" width="68" height="8" rx="2" fill="#8E24AA"/>
+  <ellipse cx="44" cy="44" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
 </svg>

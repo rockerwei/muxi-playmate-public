@@ -2,7 +2,21 @@
   <title>Uniform bag</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><path d="M36 38 Q60 28 84 38 L92 92 Q60 84 28 92 Z" fill="#6D4C41"/>
-    <circle cx="60" cy="34" r="10" fill="none" stroke="#E53935" stroke-width="4"/>
-    <ellipse cx="48" cy="52" rx="10" ry="12" fill="rgba(255,255,255,0.28)"/></g><path d="M74 24 C74 20 92 20 92 24 L96 42 C96 46 70 46 70 42 Z" fill="#A78BFA"/><rect x="80" y="18" width="8" height="8" rx="3" fill="none" stroke="#7C3AED" stroke-width="2"/>
+  
+  <!-- bag body -->
+  <path d="M28 50 Q26 34 60 32 Q94 34 92 50 L96 100 Q96 106 60 106 Q24 106 24 100 Z"
+        fill="#4CAF50"/>
+  <!-- bag shine -->
+  <path d="M36 50 Q34 38 60 36 Q76 36 82 44"
+        fill="none" stroke="rgba(255,255,255,0.22)" stroke-width="6" stroke-linecap="round"/>
+  <!-- handles -->
+  <path d="M42 50 Q42 26 54 24 Q60 22 66 24 Q78 26 78 50"
+        fill="none" stroke="#2E7D32" stroke-width="5" stroke-linecap="round"/>
+  <!-- subject printed on bag, scaled and centered -->
+  <g transform="translate(24,50) scale(0.48)"><title>Uniform</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <path d="M36 38 Q60 28 84 38 L92 92 Q60 84 28 92 Z" fill="#43A047"/>
+    <circle cx="60" cy="34" r="10" fill="none" stroke="#00897B" stroke-width="4"/>
+    <ellipse cx="48" cy="52" rx="10" ry="12" fill="rgba(255,255,255,0.28)"/></g>
 </svg>

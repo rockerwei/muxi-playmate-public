@@ -2,9 +2,16 @@
   <title>Beach</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#E53935"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#43A047"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#43A047"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 海灘 -->
+<rect x="16" y="16" width="88" height="50" rx="4" fill="#42A5F5"/>
+<path d="M16 55 Q30 45 44 52 Q58 59 72 50 Q86 41 104 50 L104 66 L16 66 Z" fill="#1E88E5"/>
+<path d="M16 62 Q30 52 44 58 Q58 64 72 56 Q86 48 104 56 L104 68 L16 68 Z" fill="#FFFFFF" opacity="0.5"/>
+<rect x="16" y="65" width="88" height="38" rx="0" fill="#FFD54F"/>
+<rect x="16" y="65" width="88" height="38" rx="0" fill="#FFCA28"/>
+<ellipse cx="60" cy="66" rx="44" ry="5" fill="#FFD54F"/>
+<rect x="55" y="38" width="5" height="30" rx="2" fill="#E53935"/>
+<path d="M60 38 L82 46 L60 54 Z" fill="#FFFFFF"/>
+<ellipse cx="32" cy="80" rx="10" ry="6" fill="#FFB74D" opacity="0.5"/>
+<circle cx="82" cy="76" r="7" fill="#FFCC02" stroke="#FFA000" stroke-width="2"/>
+<ellipse cx="82" cy="76" rx="4" ry="3" fill="rgba(255,255,255,0.28)"/>
 </svg>

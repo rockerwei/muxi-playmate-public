@@ -2,9 +2,28 @@
   <title>Lake game</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><rect x="28" y="48" width="64" height="40" rx="4" fill="#FDD835"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#8E24AA"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#8E24AA"/>
+  
+  <!-- game board base -->
+  <rect x="12" y="22" width="96" height="80" rx="8" fill="#FFF9C4"/>
+  <rect x="16" y="26" width="88" height="72" rx="6" fill="#FFFDE7" stroke="#F9A825" stroke-width="1.5"/>
+  <!-- grid lines horizontal -->
+  <line x1="16" y1="50" x2="104" y2="50" stroke="#F9A825" stroke-width="1.2"/>
+  <line x1="16" y1="68" x2="104" y2="68" stroke="#F9A825" stroke-width="1.2"/>
+  <!-- grid lines vertical -->
+  <line x1="46" y1="26" x2="46" y2="98" stroke="#F9A825" stroke-width="1.2"/>
+  <line x1="74" y1="26" x2="74" y2="98" stroke="#F9A825" stroke-width="1.2"/>
+  <!-- cell dots / squares decorations -->
+  <circle cx="31" cy="38" r="4" fill="#FFCC02" opacity="0.6"/>
+  <circle cx="60" cy="38" r="4" fill="#FF7043" opacity="0.6"/>
+  <circle cx="89" cy="79" r="4" fill="#66BB6A" opacity="0.6"/>
+  <circle cx="31" cy="79" r="4" fill="#42A5F5" opacity="0.6"/>
+  <!-- subject as token, scaled, centered in middle-right cell -->
+  <g transform="translate(48,46) scale(0.40)"><title>Lake</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <rect x="28" y="48" width="64" height="40" rx="4" fill="#546E7A"/>
+    <path d="M24 48 L60 24 L96 48 Z" fill="#FB8C00"/>
+    <rect x="48" y="64" width="16" height="24" rx="2" fill="#FB8C00"/>
     <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/></g><rect x="72" y="18" width="30" height="22" rx="6" fill="#6366F1"/><circle cx="80" cy="29" r="3" fill="#EEF2FF"/><circle cx="94" cy="29" r="3" fill="#EEF2FF"/><rect x="86" y="27" width="2" height="4" fill="#EEF2FF"/>
+    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/></g>
 </svg>

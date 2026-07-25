@@ -2,7 +2,10 @@
   <title>Kickball</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#8E24AA"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#546E7A"/>
+  <!-- 踢球 -->
+<circle cx="48" cy="56" r="22" fill="#E53935"/>
+<path d="M36 48 L48 36 L60 48 L60 60 L48 72 L36 60 Z" fill="#FFFFFF" opacity="0.8"/>
+<path d="M48 72 L48 88" stroke="#FFCC80" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="40" cy="88" rx="10" ry="5" fill="#FFB74D"/>
+<ellipse cx="42" cy="48" rx="6" ry="4" fill="rgba(255,255,255,0.22)"/>
 </svg>

@@ -2,9 +2,15 @@
   <title>Groom</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#00897B"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#EC407A"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#EC407A"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 梳理/梳子 -->
+<rect x="22" y="36" width="76" height="48" rx="10" fill="#42A5F5"/>
+<rect x="22" y="36" width="76" height="32" rx="10" fill="#64B5F6"/>
+<rect x="22" y="54" width="76" height="30" rx="0" fill="#42A5F5"/>
+<rect x="28" y="62" width="8" height="28" rx="3" fill="#1565C0"/>
+<rect x="40" y="62" width="8" height="28" rx="3" fill="#1565C0"/>
+<rect x="52" y="62" width="8" height="28" rx="3" fill="#1565C0"/>
+<rect x="64" y="62" width="8" height="28" rx="3" fill="#1565C0"/>
+<rect x="76" y="62" width="8" height="28" rx="3" fill="#1565C0"/>
+<rect x="28" y="84" width="56" height="8" rx="4" fill="#1976D2"/>
+<ellipse cx="60" cy="46" rx="28" ry="10" fill="rgba(255,255,255,0.28)"/>
 </svg>

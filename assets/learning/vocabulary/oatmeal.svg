@@ -2,8 +2,9 @@
   <title>Oatmeal</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="42" y="36" width="36" height="48" rx="6" fill="#546E7A" opacity="0.35"/>
-      <rect x="46" y="48" width="28" height="30" rx="4" fill="#8E24AA"/>
-      <ellipse cx="52" cy="56" rx="8" ry="10" fill="rgba(255,255,255,0.28)"/>
-      <path d="M54 36 Q60 24 66 36" fill="none" stroke="#546E7A" stroke-width="4"/>
+  <!-- 燕麥粥 -->
+<circle cx="60" cy="60" r="30" fill="#43A047"/>
+  <ellipse cx="48" cy="50" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
+  <path d="M60 30 Q60 22 64 20" stroke="#00897B" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M62 22 Q68 16 74 20 Q72 26 65 24 Z" fill="#00897B"/>
 </svg>

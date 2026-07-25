@@ -2,8 +2,24 @@
   <title>Vegetable sign</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><path d="M60 28 C42 28 30 42 30 62 C30 84 44 98 60 98 C76 98 90 84 90 62 C90 42 78 28 60 28 Z" fill="#8E24AA"/>
+  
+  <!-- pole -->
+  <rect x="56" y="76" width="8" height="36" rx="3" fill="#795548"/>
+  <!-- sign board shadow -->
+  <rect x="17" y="19" width="88" height="60" rx="9" fill="rgba(0,0,0,0.07)"/>
+  <!-- sign board -->
+  <rect x="14" y="16" width="88" height="60" rx="8" fill="#FFFFFF" stroke="#42A5F5" stroke-width="3.5"/>
+  <!-- subject scaled and centered in sign -->
+  <g transform="translate(16,18) scale(0.56)"><title>Vegetable</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <path d="M60 28 C42 28 30 42 30 62 C30 84 44 98 60 98 C76 98 90 84 90 62 C90 42 78 28 60 28 Z" fill="#FDD835"/>
     <ellipse cx="45" cy="48" rx="9" ry="6" fill="rgba(255,255,255,0.28)"/>
-    <path d="M60 28 C60 18 66 12 70 10" stroke="#546E7A" stroke-width="3" stroke-linecap="round" fill="none"/>
-    <path d="M64 14 C70 8 78 10 76 18 C74 24 65 22 64 14 Z" fill="#546E7A"/></g><rect x="78" y="18" width="24" height="16" rx="3" fill="#38BDF8"/><rect x="87" y="34" width="6" height="14" fill="#64748B"/>
+    <path d="M60 28 C60 18 66 12 70 10" stroke="#8E24AA" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M64 14 C70 8 78 10 76 18 C74 24 65 22 64 14 Z" fill="#8E24AA"/></g>
+  <!-- sign bolt decorations -->
+  <circle cx="22" cy="24" r="3" fill="#90CAF9"/>
+  <circle cx="98" cy="24" r="3" fill="#90CAF9"/>
+  <circle cx="22" cy="68" r="3" fill="#90CAF9"/>
+  <circle cx="98" cy="68" r="3" fill="#90CAF9"/>
 </svg>

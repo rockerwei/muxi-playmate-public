@@ -2,8 +2,27 @@
   <title>Onion game</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><path d="M60 28 C42 28 30 42 30 62 C30 84 44 98 60 98 C76 98 90 84 90 62 C90 42 78 28 60 28 Z" fill="#FB8C00"/>
+  
+  <!-- game board base -->
+  <rect x="12" y="22" width="96" height="80" rx="8" fill="#FFF9C4"/>
+  <rect x="16" y="26" width="88" height="72" rx="6" fill="#FFFDE7" stroke="#F9A825" stroke-width="1.5"/>
+  <!-- grid lines horizontal -->
+  <line x1="16" y1="50" x2="104" y2="50" stroke="#F9A825" stroke-width="1.2"/>
+  <line x1="16" y1="68" x2="104" y2="68" stroke="#F9A825" stroke-width="1.2"/>
+  <!-- grid lines vertical -->
+  <line x1="46" y1="26" x2="46" y2="98" stroke="#F9A825" stroke-width="1.2"/>
+  <line x1="74" y1="26" x2="74" y2="98" stroke="#F9A825" stroke-width="1.2"/>
+  <!-- cell dots / squares decorations -->
+  <circle cx="31" cy="38" r="4" fill="#FFCC02" opacity="0.6"/>
+  <circle cx="60" cy="38" r="4" fill="#FF7043" opacity="0.6"/>
+  <circle cx="89" cy="79" r="4" fill="#66BB6A" opacity="0.6"/>
+  <circle cx="31" cy="79" r="4" fill="#42A5F5" opacity="0.6"/>
+  <!-- subject as token, scaled, centered in middle-right cell -->
+  <g transform="translate(48,46) scale(0.40)"><title>Onion</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <path d="M60 28 C42 28 30 42 30 62 C30 84 44 98 60 98 C76 98 90 84 90 62 C90 42 78 28 60 28 Z" fill="#6D4C41"/>
     <ellipse cx="45" cy="48" rx="9" ry="6" fill="rgba(255,255,255,0.28)"/>
-    <path d="M60 28 C60 18 66 12 70 10" stroke="#1E88E5" stroke-width="3" stroke-linecap="round" fill="none"/>
-    <path d="M64 14 C70 8 78 10 76 18 C74 24 65 22 64 14 Z" fill="#1E88E5"/></g><rect x="72" y="18" width="30" height="22" rx="6" fill="#6366F1"/><circle cx="80" cy="29" r="3" fill="#EEF2FF"/><circle cx="94" cy="29" r="3" fill="#EEF2FF"/><rect x="86" y="27" width="2" height="4" fill="#EEF2FF"/>
+    <path d="M60 28 C60 18 66 12 70 10" stroke="#E53935" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M64 14 C70 8 78 10 76 18 C74 24 65 22 64 14 Z" fill="#E53935"/></g>
 </svg>

@@ -2,7 +2,11 @@
   <title>Jingle</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#43A047"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#00897B"/>
+  <!-- 叮噹聲 -->
+<path d="M52 28 Q60 18 68 28 L66 52 Q60 58 54 52 Z" fill="#FFD54F"/>
+<circle cx="60" cy="56" r="6" fill="#FFB300"/>
+<path d="M36 40 Q28 32 24 24" fill="none" stroke="#90CAF9" stroke-width="2" stroke-linecap="round"/>
+<path d="M84 40 Q92 32 96 24" fill="none" stroke="#90CAF9" stroke-width="2" stroke-linecap="round"/>
+<path d="M60 64 Q60 78 60 88" fill="none" stroke="#FFD54F" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+<ellipse cx="56" cy="32" rx="4" ry="3" fill="rgba(255,255,255,0.25)"/>
 </svg>

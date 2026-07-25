@@ -2,7 +2,10 @@
   <title>Jewel</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#00897B"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#EC407A"/>
+  <!-- 寶石 -->
+<path d="M60 24 L88 44 L76 88 L44 88 L32 44 Z" fill="#7B1FA2"/>
+<path d="M60 24 L88 44 L60 56 L32 44 Z" fill="#AB47BC"/>
+<path d="M60 56 L88 44 L76 88 L44 88 L32 44 Z" fill="#8E24AA"/>
+<path d="M60 24 L60 56 L32 44 Z" fill="#CE93D8" opacity="0.6"/>
+<ellipse cx="48" cy="36" rx="6" ry="4" fill="rgba(255,255,255,0.30)"/>
 </svg>

@@ -2,7 +2,7 @@
   <title>Yo-yo</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="54" y="24" width="12" height="56" rx="4" fill="#FDD835"/>
-    <path d="M34 72 Q60 34 86 72 Q72 84 48 84 Z" fill="#EC407A"/>
-    <ellipse cx="52" cy="58" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
+  <!-- 溜溜球 -->
+<circle cx="60" cy="58" r="30" fill="#8E24AA"/>
+  <ellipse cx="48" cy="46" rx="10" ry="7" fill="rgba(255,255,255,0.28)"/>
 </svg>

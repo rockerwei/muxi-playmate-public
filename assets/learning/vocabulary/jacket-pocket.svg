@@ -2,7 +2,10 @@
   <title>Jacket pocket</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#1E88E5"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#6D4C41"/>
+  <!-- 外套口袋 -->
+<rect x="28" y="28" width="64" height="72" rx="6" fill="#5C6BC0"/>
+<rect x="32" y="32" width="56" height="64" rx="4" fill="#7986CB"/>
+<path d="M38 58 L82 58 L80 82 Q80 88 60 88 Q40 88 40 82 Z" fill="#3949AB"/>
+<path d="M42 62 L78 62 L76 80 Q76 84 60 84 Q44 84 44 80 Z" fill="#5C6BC0"/>
+<ellipse cx="60" cy="72" rx="10" ry="4" fill="rgba(255,255,255,0.12)"/>
 </svg>

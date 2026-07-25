@@ -2,7 +2,13 @@
   <title>Jungle gym</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 兒童攀爬架 -->
+<rect x="28" y="78" width="64" height="8" rx="2" fill="#78909C"/>
+<rect x="32" y="32" width="8" height="50" rx="2" fill="#546E7A"/>
+<rect x="80" y="32" width="8" height="50" rx="2" fill="#546E7A"/>
+<rect x="32" y="32" width="56" height="8" rx="2" fill="#607D8B"/>
+<rect x="32" y="52" width="56" height="8" rx="2" fill="#607D8B"/>
+<rect x="56" y="32" width="8" height="50" rx="2" fill="#78909C"/>
+<circle cx="44" cy="42" r="4" fill="#EF5350"/>
+<circle cx="76" cy="62" r="4" fill="#FFEB3B"/>
 </svg>

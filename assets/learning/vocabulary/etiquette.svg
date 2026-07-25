@@ -2,7 +2,9 @@
   <title>Etiquette</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#FDD835"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#8E24AA"/>
+  <!-- 禮儀 -->
+<rect x="32" y="44" width="56" height="44" rx="4" fill="#FDD835"/>
+  <rect x="56" y="44" width="8" height="44" fill="#8E24AA"/>
+  <rect x="32" y="60" width="56" height="8" fill="#8E24AA"/>
+  <path d="M52 44 Q60 28 68 44" fill="none" stroke="#8E24AA" stroke-width="4" stroke-linecap="round"/>
 </svg>

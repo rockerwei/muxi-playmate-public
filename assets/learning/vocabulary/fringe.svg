@@ -2,9 +2,21 @@
   <title>Fringe</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#E53935"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#43A047"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#43A047"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 瀏海髮型 -->
+<ellipse cx="60" cy="52" rx="34" ry="36" fill="#5D4037"/>
+<ellipse cx="60" cy="66" rx="28" ry="28" fill="#FFCC80"/>
+<ellipse cx="60" cy="64" rx="26" ry="26" fill="#FFB74D"/>
+<path d="M28 52 Q30 32 60 28 Q90 32 92 52" fill="#4E342E"/>
+<path d="M30 50 Q32 34 60 30 Q88 34 90 50 L86 52 Q76 42 60 40 Q44 42 34 52 Z" fill="#5D4037"/>
+<path d="M32 52 Q36 44 44 42" fill="none" stroke="#3E2723" stroke-width="3" stroke-linecap="round"/>
+<path d="M44 48 Q48 40 56 39" fill="none" stroke="#3E2723" stroke-width="3" stroke-linecap="round"/>
+<path d="M56 46 Q60 39 64 39" fill="none" stroke="#3E2723" stroke-width="3" stroke-linecap="round"/>
+<path d="M64 48 Q72 40 76 42" fill="none" stroke="#3E2723" stroke-width="3" stroke-linecap="round"/>
+<path d="M76 52 Q82 44 88 50" fill="none" stroke="#3E2723" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="48" cy="65" rx="5" ry="6" fill="#FFFFFF" opacity="0.9"/>
+<ellipse cx="48" cy="65" rx="3" ry="4" fill="#3E2723"/>
+<ellipse cx="72" cy="65" rx="5" ry="6" fill="#FFFFFF" opacity="0.9"/>
+<ellipse cx="72" cy="65" rx="3" ry="4" fill="#3E2723"/>
+<path d="M52 78 Q60 82 68 78" fill="none" stroke="#E64A19" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="60" cy="55" rx="20" ry="10" fill="rgba(255,255,255,0.15)"/>
 </svg>

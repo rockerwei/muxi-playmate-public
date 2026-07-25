@@ -2,7 +2,8 @@
   <title>River</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 河流 -->
+<rect x="14" y="48" width="92" height="44" rx="2" fill="#29B6F6"/>
+  <path d="M14 62 Q40 52 60 58 Q80 64 106 54" fill="none" stroke="#81D4FA" stroke-width="3"/>
+  <ellipse cx="60" cy="66" rx="20" ry="6" fill="rgba(255,255,255,0.20)"/>
 </svg>

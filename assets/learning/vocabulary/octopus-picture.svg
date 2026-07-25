@@ -2,9 +2,25 @@
   <title>Octopus picture</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="60" cy="62" rx="34" ry="22" fill="#E53935"/>
+  
+  <!-- outer wooden frame -->
+  <rect x="12" y="18" width="96" height="78" rx="5" fill="#8B5E3C"/>
+  <!-- inner mat -->
+  <rect x="20" y="26" width="80" height="62" rx="3" fill="#FDF6EC"/>
+  <!-- white canvas -->
+  <rect x="24" y="30" width="72" height="54" rx="2" fill="#FFFFFF"/>
+  <!-- subject scaled and centered in canvas -->
+  <g transform="translate(24,30) scale(0.60)"><title>Octopus</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <ellipse cx="60" cy="62" rx="34" ry="22" fill="#6D4C41"/>
       <ellipse cx="48" cy="54" rx="10" ry="6" fill="rgba(255,255,255,0.28)"/>
-      <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#43A047"/>
+      <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#E53935"/>
       <circle cx="78" cy="54" r="4" fill="#111827"/><circle cx="79" cy="53" r="1.2" fill="#FFFFFF"/>
-      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#43A047" stroke-width="3" stroke-linecap="round"/></g><rect x="70" y="16" width="36" height="28" rx="3" fill="#FFFFFF" stroke="#64748B" stroke-width="2"/><circle cx="82" cy="28" r="5" fill="#60A5FA"/><path d="M74 38 L84 30 L92 36 L98 32 L102 38 Z" fill="#34D399"/>
+      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#E53935" stroke-width="3" stroke-linecap="round"/></g>
+  <!-- frame corner accents -->
+  <rect x="12" y="18" width="10" height="10" rx="2" fill="#6D4C41"/>
+  <rect x="98" y="18" width="10" height="10" rx="2" fill="#6D4C41"/>
+  <rect x="12" y="86" width="10" height="10" rx="2" fill="#6D4C41"/>
+  <rect x="98" y="86" width="10" height="10" rx="2" fill="#6D4C41"/>
 </svg>

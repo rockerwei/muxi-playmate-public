@@ -2,7 +2,14 @@
   <title>Infant</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 嬰兒臉 -->
+<circle cx="60" cy="58" r="32" fill="#FFCC80"/>
+<circle cx="48" cy="52" r="5" fill="#FFFFFF"/>
+<circle cx="48" cy="52" r="3" fill="#37474F"/>
+<circle cx="72" cy="52" r="5" fill="#FFFFFF"/>
+<circle cx="72" cy="52" r="3" fill="#37474F"/>
+<ellipse cx="60" cy="62" rx="6" ry="4" fill="#FFAB91"/>
+<path d="M52 72 Q60 78 68 72" fill="none" stroke="#E64A19" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="42" cy="60" rx="6" ry="4" fill="#FFAB91" opacity="0.5"/>
+<ellipse cx="78" cy="60" rx="6" ry="4" fill="#FFAB91" opacity="0.5"/>
 </svg>

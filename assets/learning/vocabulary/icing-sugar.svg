@@ -2,7 +2,12 @@
   <title>Icing sugar</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 糖粉袋 -->
+<path d="M40 28 L80 28 L86 88 Q86 96 60 96 Q34 96 34 88 Z" fill="#ECEFF1"/>
+<path d="M44 32 L76 32 L80 84 Q80 90 60 90 Q40 90 40 84 Z" fill="#FFFFFF"/>
+<rect x="48" y="22" width="24" height="10" rx="2" fill="#CFD8DC"/>
+<ellipse cx="60" cy="56" rx="12" ry="8" fill="#F5F5F5" opacity="0.8"/>
+<circle cx="52" cy="68" r="2" fill="#E0E0E0"/>
+<circle cx="60" cy="72" r="2" fill="#E0E0E0"/>
+<circle cx="68" cy="66" r="2" fill="#E0E0E0"/>
 </svg>

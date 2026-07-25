@@ -2,9 +2,23 @@
   <title>Classroom</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#E53935"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#43A047"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#43A047"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 教室 -->
+<rect x="12" y="28" width="96" height="64" rx="4" fill="#F5F5DC"/>
+<rect x="16" y="32" width="64" height="38" rx="3" fill="#388E3C"/>
+<rect x="17" y="33" width="62" height="36" rx="2" fill="#2E7D32"/>
+<line x1="20" y1="42" x2="76" y2="42" stroke="#4CAF50" stroke-width="1.5" opacity="0.5"/>
+<line x1="20" y1="50" x2="76" y2="50" stroke="#4CAF50" stroke-width="1.5" opacity="0.5"/>
+<line x1="20" y1="58" x2="76" y2="58" stroke="#4CAF50" stroke-width="1.5" opacity="0.5"/>
+<circle cx="30" cy="42" r="3" fill="#FFFFFF"/>
+<path d="M28 48 L32 48 L34 54 L36 44 L38 54 L40 48 L44 48" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="82" y="34" width="26" height="18" rx="2" fill="#BBDEFB"/>
+<rect x="84" y="36" width="22" height="14" rx="1" fill="#E3F2FD"/>
+<rect x="16" y="73" width="16" height="14" rx="2" fill="#A1887F"/>
+<rect x="17" y="74" width="14" height="8" rx="1" fill="#8D6E63"/>
+<rect x="36" y="73" width="16" height="14" rx="2" fill="#A1887F"/>
+<rect x="37" y="74" width="14" height="8" rx="1" fill="#8D6E63"/>
+<rect x="56" y="73" width="16" height="14" rx="2" fill="#A1887F"/>
+<rect x="57" y="74" width="14" height="8" rx="1" fill="#8D6E63"/>
+<rect x="76" y="73" width="16" height="14" rx="2" fill="#A1887F"/>
+<rect x="77" y="74" width="14" height="8" rx="1" fill="#8D6E63"/>
 </svg>

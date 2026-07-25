@@ -2,7 +2,13 @@
   <title>Harmonica</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#00897B"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#EC407A"/>
+  <!-- 口琴 -->
+<rect x="22" y="46" width="76" height="28" rx="6" fill="#37474F"/>
+<rect x="26" y="50" width="68" height="20" rx="4" fill="#546E7A"/>
+<rect x="30" y="54" width="8" height="12" rx="1" fill="#CFD8DC"/>
+<rect x="42" y="54" width="8" height="12" rx="1" fill="#ECEFF1"/>
+<rect x="54" y="54" width="8" height="12" rx="1" fill="#CFD8DC"/>
+<rect x="66" y="54" width="8" height="12" rx="1" fill="#ECEFF1"/>
+<rect x="78" y="54" width="8" height="12" rx="1" fill="#CFD8DC"/>
+<ellipse cx="60" cy="52" rx="28" ry="6" fill="rgba(255,255,255,0.15)"/>
 </svg>

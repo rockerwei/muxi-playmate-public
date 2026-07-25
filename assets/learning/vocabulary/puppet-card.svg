@@ -2,8 +2,22 @@
   <title>Puppet card</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><circle cx="60" cy="34" r="15" fill="#FB8C00"/>
-    <path d="M38 92 Q38 64 60 60 Q82 64 82 92 Z" fill="#546E7A"/>
-    <path d="M46 78 H74" stroke="#FB8C00" stroke-width="4" stroke-linecap="round"/>
-    <ellipse cx="54" cy="30" rx="5" ry="4" fill="rgba(255,255,255,0.28)"/></g><rect x="72" y="18" width="34" height="26" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/><rect x="76" y="24" width="18" height="4" rx="2" fill="#94A3B8"/><rect x="76" y="32" width="24" height="3" rx="1.5" fill="#CBD5E1"/>
+  
+  <!-- card frame -->
+  <rect x="14" y="26" width="92" height="66" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+  <!-- subject scaled to left half -->
+  <g transform="translate(16,28) scale(0.465)"><title>Puppet</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <circle cx="60" cy="34" r="15" fill="#546E7A"/>
+    <path d="M38 92 Q38 64 60 60 Q82 64 82 92 Z" fill="#8E24AA"/>
+    <path d="M46 78 H74" stroke="#546E7A" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="54" cy="30" rx="5" ry="4" fill="rgba(255,255,255,0.28)"/></g>
+  <!-- text lines on right -->
+  <rect x="70" y="42" width="26" height="4" rx="2" fill="#94A3B8"/>
+  <rect x="70" y="52" width="20" height="3" rx="1.5" fill="#CBD5E1"/>
+  <rect x="70" y="61" width="23" height="3" rx="1.5" fill="#E2E8F0"/>
+  <rect x="70" y="70" width="18" height="3" rx="1.5" fill="#E2E8F0"/>
+  <!-- corner dot decoration -->
+  <circle cx="100" cy="86" r="3" fill="#E2E8F0"/>
 </svg>

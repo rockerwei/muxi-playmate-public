@@ -2,7 +2,14 @@
   <title>Haul</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#8E24AA"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#546E7A"/>
+  <!-- 拖運重物 -->
+<rect x="28" y="58" width="44" height="28" rx="4" fill="#8D6E63"/>
+<rect x="32" y="62" width="36" height="20" rx="2" fill="#A1887F"/>
+<circle cx="38" cy="90" r="8" fill="#37474F"/>
+<circle cx="38" cy="90" r="3" fill="#90A4AE"/>
+<circle cx="62" cy="90" r="8" fill="#37474F"/>
+<circle cx="62" cy="90" r="3" fill="#90A4AE"/>
+<path d="M72 70 L96 70" stroke="#795548" stroke-width="4" stroke-linecap="round"/>
+<path d="M96 70 L92 62 L100 62 Z" fill="#6D4C41"/>
+<ellipse cx="46" cy="64" rx="10" ry="5" fill="rgba(255,255,255,0.18)"/>
 </svg>

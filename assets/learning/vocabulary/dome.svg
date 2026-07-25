@@ -2,6 +2,7 @@
   <title>Dome</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="30" y="34" width="60" height="52" rx="8" fill="#43A047" stroke="#00897B" stroke-width="3"/>
-    <ellipse cx="42" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
+  <!-- 圓頂 -->
+<rect x="32" y="32" width="56" height="56" rx="8" fill="#8E24AA"/>
+  <ellipse cx="44" cy="44" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
 </svg>

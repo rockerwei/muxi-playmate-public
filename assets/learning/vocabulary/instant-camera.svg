@@ -2,7 +2,12 @@
   <title>Instant camera</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#6D4C41"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#E53935"/>
+  <!-- 拍立得 -->
+<rect x="26" y="38" width="68" height="48" rx="8" fill="#37474F"/>
+<rect x="30" y="42" width="60" height="40" rx="6" fill="#546E7A"/>
+<circle cx="60" cy="58" r="16" fill="#263238"/>
+<circle cx="60" cy="58" r="12" fill="#455A64"/>
+<circle cx="60" cy="58" r="8" fill="#78909C"/>
+<rect x="72" y="46" width="12" height="8" rx="2" fill="#FFEB3B"/>
+<rect x="34" y="82" width="52" height="10" rx="2" fill="#ECEFF1"/>
 </svg>

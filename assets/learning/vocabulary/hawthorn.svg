@@ -2,9 +2,20 @@
   <title>Hawthorn</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#6D4C41"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#E53935"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#E53935"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 山楂果 -->
+<path d="M56 36 Q44 30 38 18 Q50 20 58 32 Q52 18 56 10 Q62 20 60 34 Q68 18 72 10 Q76 22 68 34 Q76 28 88 20 Q84 32 72 38" fill="#5D8A3C" stroke="#4a7030" stroke-width="1"/>
+<circle cx="38" cy="60" r="12" fill="#E53935"/>
+<circle cx="38" cy="60" r="12" fill="none" stroke="#C62828" stroke-width="1.5"/>
+<ellipse cx="35" cy="55" rx="4" ry="5" fill="rgba(255,255,255,0.28)"/>
+<circle cx="5" cy="3" r="2" fill="#5D4037" transform="translate(35,57)"/>
+<circle cx="60" cy="55" r="14" fill="#E53935"/>
+<ellipse cx="57" cy="50" rx="5" ry="6" fill="rgba(255,255,255,0.28)"/>
+<circle cx="60" cy="69" r="2" fill="#5D4037"/>
+<circle cx="82" cy="62" r="11" fill="#EF5350"/>
+<ellipse cx="79" cy="58" rx="4" ry="4" fill="rgba(255,255,255,0.28)"/>
+<circle cx="82" cy="73" r="1.5" fill="#5D4037"/>
+<circle cx="48" cy="78" r="9" fill="#E53935"/>
+<ellipse cx="46" cy="74" rx="3" ry="4" fill="rgba(255,255,255,0.28)"/>
+<circle cx="70" cy="75" r="10" fill="#EF5350"/>
+<ellipse cx="68" cy="71" rx="3.5" ry="4.5" fill="rgba(255,255,255,0.28)"/>
 </svg>

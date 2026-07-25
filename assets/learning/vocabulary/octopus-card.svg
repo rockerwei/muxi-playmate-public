@@ -2,9 +2,23 @@
   <title>Octopus card</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <g transform="translate(0,0) scale(0.82) translate(13,8)"><ellipse cx="60" cy="62" rx="34" ry="22" fill="#6D4C41"/>
+  
+  <!-- card frame -->
+  <rect x="14" y="26" width="92" height="66" rx="7" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+  <!-- subject scaled to left half -->
+  <g transform="translate(16,28) scale(0.465)"><title>Octopus</title>
+  <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
+  <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
+  <ellipse cx="60" cy="62" rx="34" ry="22" fill="#6D4C41"/>
       <ellipse cx="48" cy="54" rx="10" ry="6" fill="rgba(255,255,255,0.28)"/>
       <path d="M28 62 Q18 58 14 52 Q22 60 28 62" fill="#E53935"/>
       <circle cx="78" cy="54" r="4" fill="#111827"/><circle cx="79" cy="53" r="1.2" fill="#FFFFFF"/>
-      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#E53935" stroke-width="3" stroke-linecap="round"/></g><rect x="72" y="18" width="34" height="26" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/><rect x="76" y="24" width="18" height="4" rx="2" fill="#94A3B8"/><rect x="76" y="32" width="24" height="3" rx="1.5" fill="#CBD5E1"/>
+      <path d="M86 58 Q94 62 98 58" fill="none" stroke="#E53935" stroke-width="3" stroke-linecap="round"/></g>
+  <!-- text lines on right -->
+  <rect x="70" y="42" width="26" height="4" rx="2" fill="#94A3B8"/>
+  <rect x="70" y="52" width="20" height="3" rx="1.5" fill="#CBD5E1"/>
+  <rect x="70" y="61" width="23" height="3" rx="1.5" fill="#E2E8F0"/>
+  <rect x="70" y="70" width="18" height="3" rx="1.5" fill="#E2E8F0"/>
+  <!-- corner dot decoration -->
+  <circle cx="100" cy="86" r="3" fill="#E2E8F0"/>
 </svg>

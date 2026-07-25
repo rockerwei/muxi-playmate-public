@@ -2,7 +2,13 @@
   <title>Kindergarten</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 幼兒園 -->
+<rect x="24" y="44" width="72" height="48" rx="4" fill="#FFCC80"/>
+<path d="M20 44 L60 18 L100 44 Z" fill="#E53935"/>
+<rect x="52" y="68" width="16" height="24" rx="1" fill="#5D4037"/>
+<circle cx="40" cy="58" r="8" fill="#81D4FA"/>
+<circle cx="80" cy="58" r="8" fill="#A5D6A7"/>
+<rect x="38" y="32" width="44" height="8" rx="2" fill="#FFD54F"/>
+<path d="M32 28 Q36 22 40 28" fill="#4CAF50"/>
+<path d="M80 28 Q84 22 88 28" fill="#4CAF50"/>
 </svg>

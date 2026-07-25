@@ -2,9 +2,21 @@
   <title>Workshop</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#FB8C00"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#1E88E5"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#1E88E5"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 工作坊 -->
+<rect x="14" y="50" width="92" height="52" rx="3" fill="#8D6E63"/>
+<rect x="16" y="52" width="88" height="48" rx="2" fill="#795548"/>
+<rect x="16" y="58" width="88" height="8" rx="1" fill="#6D4C41"/>
+<rect x="16" y="74" width="88" height="8" rx="1" fill="#6D4C41"/>
+<rect x="16" y="90" width="88" height="8" rx="1" fill="#6D4C41"/>
+<path d="M18 44 Q60 28 102 44 L102 58 L18 58 Z" fill="#5D4037"/>
+<rect x="28" y="62" width="12" height="10" rx="2" fill="#FF7043"/>
+<rect x="44" y="62" width="12" height="10" rx="2" fill="#42A5F5"/>
+<rect x="60" y="62" width="12" height="10" rx="2" fill="#66BB6A"/>
+<rect x="76" y="62" width="12" height="10" rx="2" fill="#FFCC02"/>
+<path d="M28 78 L38 72" stroke="#CFD8DC" stroke-width="4" stroke-linecap="round"/>
+<path d="M28 72 L32 68 L36 72 L32 78 Z" fill="#90A4AE"/>
+<rect x="48" y="76" width="20" height="6" rx="2" fill="#CFD8DC"/>
+<circle cx="58" cy="79" r="3" fill="#78909C"/>
+<path d="M72 78 L82 74" stroke="#CFD8DC" stroke-width="3" stroke-linecap="round"/>
+<path d="M72 74 L76 78 L80 74 L76 70 Z" fill="#78909C"/>
 </svg>

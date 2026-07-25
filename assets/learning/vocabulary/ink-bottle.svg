@@ -2,7 +2,10 @@
   <title>Ink bottle</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#E53935"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#43A047"/>
+  <!-- 墨水瓶 -->
+<path d="M44 36 L76 36 L80 90 Q80 98 60 98 Q40 98 40 90 Z" fill="#37474F"/>
+<rect x="50" y="28" width="20" height="10" rx="2" fill="#546E7A"/>
+<ellipse cx="60" cy="28" rx="12" ry="4" fill="#78909C"/>
+<ellipse cx="60" cy="62" rx="14" ry="18" fill="#1A237E"/>
+<ellipse cx="52" cy="50" rx="5" ry="7" fill="rgba(255,255,255,0.10)"/>
 </svg>

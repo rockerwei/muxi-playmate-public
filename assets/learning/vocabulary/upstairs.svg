@@ -2,9 +2,16 @@
   <title>Upstairs</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#6D4C41"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#E53935"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#E53935"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 樓梯向上 -->
+<rect x="14" y="80" width="28" height="20" rx="2" fill="#90A4AE"/>
+<rect x="42" y="62" width="28" height="38" rx="2" fill="#78909C"/>
+<rect x="70" y="44" width="28" height="56" rx="2" fill="#607D8B"/>
+<rect x="14" y="76" width="28" height="6" rx="1" fill="#B0BEC5"/>
+<rect x="42" y="58" width="28" height="6" rx="1" fill="#90A4AE"/>
+<rect x="70" y="40" width="28" height="6" rx="1" fill="#78909C"/>
+<path d="M18 76 L38 58 L66 58 L66 40 L98 40" fill="none" stroke="#FFD54F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88 30 L98 40 L88 50" fill="none" stroke="#FFD54F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="16" y="78" width="24" height="4" rx="1" fill="#CFD8DC"/>
+<rect x="44" y="60" width="24" height="4" rx="1" fill="#B0BEC5"/>
+<rect x="72" y="42" width="24" height="4" rx="1" fill="#90A4AE"/>
 </svg>

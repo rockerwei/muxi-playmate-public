@@ -2,7 +2,11 @@
   <title>Hardwood</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#43A047"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#00897B"/>
+  <!-- 硬木截面 -->
+<rect x="28" y="28" width="64" height="64" rx="8" fill="#8D6E63"/>
+<ellipse cx="60" cy="60" rx="26" ry="26" fill="#A1887F"/>
+<ellipse cx="60" cy="60" rx="18" ry="18" fill="none" stroke="#6D4C41" stroke-width="2"/>
+<ellipse cx="60" cy="60" rx="10" ry="10" fill="none" stroke="#5D4037" stroke-width="1.5"/>
+<ellipse cx="60" cy="60" rx="4" ry="4" fill="#4E342E"/>
+<ellipse cx="48" cy="48" rx="8" ry="5" fill="rgba(255,255,255,0.18)"/>
 </svg>

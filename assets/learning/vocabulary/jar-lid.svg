@@ -2,7 +2,10 @@
   <title>Jar lid</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#00897B"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#EC407A"/>
+  <!-- 罐子蓋 -->
+<ellipse cx="60" cy="72" rx="28" ry="10" fill="#78909C"/>
+<path d="M32 72 Q32 48 60 44 Q88 48 88 72 Q88 84 60 88 Q32 84 32 72 Z" fill="#B0BEC5"/>
+<ellipse cx="60" cy="52" rx="22" ry="8" fill="#CFD8DC"/>
+<path d="M36 52 Q60 38 84 52" fill="none" stroke="#90A4AE" stroke-width="3"/>
+<ellipse cx="48" cy="56" rx="6" ry="3" fill="rgba(255,255,255,0.25)"/>
 </svg>

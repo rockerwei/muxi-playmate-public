@@ -2,6 +2,6 @@
   <title>Triangle</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="30" y="34" width="60" height="52" rx="8" fill="#FDD835" stroke="#8E24AA" stroke-width="3"/>
-    <ellipse cx="42" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
+  <!-- 三角形 -->
+<polygon points="60,24 96,88 24,88" fill="#00897B"/><ellipse cx="48" cy="44" rx="8" ry="6" fill="rgba(255,255,255,0.28)"/>
 </svg>

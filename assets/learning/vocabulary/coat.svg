@@ -2,7 +2,9 @@
   <title>Coat</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="34" y="36" width="52" height="44" rx="10" fill="#EC407A"/>
-    <ellipse cx="44" cy="46" rx="10" ry="8" fill="rgba(255,255,255,0.28)"/>
-    <rect x="48" y="52" width="24" height="8" rx="3" fill="#FDD835"/>
+  <!-- 外套 -->
+<path d="M32 32 L88 32 L92 88 Q92 96 60 96 Q28 96 28 88 Z" fill="#EC407A"/>
+  <path d="M52 32 L60 48 L68 32" fill="#FDD835"/>
+  <rect x="56" y="48" width="8" height="36" rx="1" fill="#FDD835"/>
+  <ellipse cx="44" cy="44" rx="8" ry="5" fill="rgba(255,255,255,0.28)"/>
 </svg>

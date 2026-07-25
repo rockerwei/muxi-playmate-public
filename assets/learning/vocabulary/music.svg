@@ -2,8 +2,9 @@
   <title>Music</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <ellipse cx="42" cy="78" rx="16" ry="12" fill="#EC407A"/>
-    <rect x="54" y="30" width="6" height="48" fill="#FDD835"/>
-    <path d="M60 30 Q78 24 84 34 Q78 42 60 36" fill="#FDD835"/>
-    <ellipse cx="40" cy="72" rx="6" ry="4" fill="rgba(255,255,255,0.28)"/>
+  <!-- 音樂 -->
+<ellipse cx="60" cy="68" rx="26" ry="10" fill="#37474F"/>
+  <ellipse cx="60" cy="62" rx="20" ry="8" fill="#FB8C00"/>
+  <rect x="56" y="32" width="8" height="32" rx="2" fill="#1E88E5"/>
+  <ellipse cx="52" cy="58" rx="6" ry="3" fill="rgba(255,255,255,0.28)"/>
 </svg>

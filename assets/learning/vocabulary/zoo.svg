@@ -2,9 +2,20 @@
   <title>Zoo</title>
   <rect width="120" height="120" rx="16" fill="#FFF8F0"/>
   <ellipse cx="60" cy="108" rx="30" ry="6" fill="rgba(0,0,0,0.08)"/>
-  <rect x="28" y="48" width="64" height="40" rx="4" fill="#8E24AA"/>
-    <path d="M24 48 L60 24 L96 48 Z" fill="#546E7A"/>
-    <rect x="48" y="64" width="16" height="24" rx="2" fill="#546E7A"/>
-    <rect x="36" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
-    <rect x="70" y="56" width="14" height="12" rx="2" fill="#E2E8F0"/>
+  <!-- 動物園入口 -->
+<rect x="14" y="36" width="92" height="66" rx="4" fill="#A5D6A7"/>
+<path d="M14 36 Q60 14 106 36" fill="#66BB6A"/>
+<rect x="14" y="36" width="26" height="66" rx="2" fill="#8BC34A"/>
+<rect x="80" y="36" width="26" height="66" rx="2" fill="#8BC34A"/>
+<path d="M40 36 L40 62 Q40 70 60 70 Q80 70 80 62 L80 36" fill="#4CAF50"/>
+<rect x="46" y="36" width="28" height="36" rx="2" fill="#FFF8E1"/>
+<line x1="46" y1="44" x2="74" y2="44" stroke="#8BC34A" stroke-width="2.5"/>
+<line x1="46" y1="52" x2="74" y2="52" stroke="#8BC34A" stroke-width="2.5"/>
+<line x1="46" y1="60" x2="74" y2="60" stroke="#8BC34A" stroke-width="2.5"/>
+<circle cx="60" cy="26" r="8" fill="#FF7043"/>
+<ellipse cx="60" cy="24" rx="5" ry="3" fill="rgba(255,255,255,0.28)"/>
+<ellipse cx="24" cy="72" rx="10" ry="8" fill="#FFCC80"/>
+<circle cx="24" cy="67" r="4" fill="#FF9800"/>
+<ellipse cx="94" cy="70" rx="10" ry="8" fill="#CE93D8"/>
+<circle cx="94" cy="65" r="4" fill="#9C27B0"/>
 </svg>
