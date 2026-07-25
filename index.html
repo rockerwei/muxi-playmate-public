@@ -2,7 +2,7 @@
 <html lang="zh-TW">
   <head>
     <meta charset="UTF-8" />
-    <meta name="muxi-build-id" content="6167dfc" />
+    <meta name="muxi-build-id" content="f616860" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
     <!-- Theme color -->
@@ -11,7 +11,8 @@
     <!-- Prevent double-tap zoom on iOS without disabling accessibility zoom -->
     <meta name="format-detection" content="telephone=no" />
 
-    <!-- iOS PWA -->
+    <!-- PWA standalone -->
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta name="apple-mobile-web-app-title" content="Playmate" />
@@ -137,71 +138,75 @@
       name="twitter:image:alt"
       content="Muxi Playmate — Interactive early-childhood learning by Muxi Labs"
     />
-    <script type="module" crossorigin src="/muxi-playmate-public/assets/index-Bh_oCdoT.js"></script>
+    <script type="module" crossorigin src="/muxi-playmate-public/assets/index-DqTiRm9U.js"></script>
     <link rel="modulepreload" crossorigin href="/muxi-playmate-public/assets/vendor-n9xOPtvf.js">
     <link rel="modulepreload" crossorigin href="/muxi-playmate-public/assets/router-vbJ5ZMVx.js">
     <link rel="stylesheet" crossorigin href="/muxi-playmate-public/assets/index-CBRpPuLJ.css">
   <link rel="manifest" href="/muxi-playmate-public/manifest.webmanifest"></head>
   <body>
-    <div id="root"></div>
-    <script id="pwa-bootstrap">(function () {
-  var BUILD_ID = '6167dfc';
-  var STORAGE_KEY = 'muxilabs-playmate:build-id';
-  var RELOAD_KEY = 'muxilabs-playmate:migration-reload';
-  var didReload = false;
+    <div id="root">
+      <div id="boot-fallback" role="status" aria-live="polite">Playmate 載入中…</div>
+    </div>
+      <script id="pwa-bootstrap">(function () {
+  var BOOT_TIMEOUT_MS = 15000;
+  var BOOT_RELOAD_KEY = 'muxilabs-playmate:boot-manual-reload-count';
+  var BUILD_ID = 'f616860';
 
-  function reloadOnce() {
-    if (didReload) return;
-    didReload = true;
-    window.location.reload();
+  function removeBootFallback() {
+    var fallback = document.getElementById('boot-fallback');
+    if (fallback) fallback.remove();
   }
 
-  function clearRuntimeCaches() {
-    var tasks = [];
-    if ('serviceWorker' in navigator) {
-      tasks.push(
-        navigator.serviceWorker.getRegistrations().then(function (regs) {
-          return Promise.all(regs.map(function (reg) { return reg.unregister(); }));
-        }),
-      );
+  window.__MUXI_BOOT_OK__ = function () {
+    removeBootFallback();
+  };
+
+  function showBootFailure(code) {
+    var root = document.getElementById('root');
+    if (!root) return;
+    removeBootFallback();
+    root.innerHTML =
+      '<div id="boot-failure" role="alert" style="font-family:system-ui,sans-serif;padding:24px;text-align:center;max-width:420px;margin:40px auto;">' +
+      '<p style="font-size:18px;font-weight:700;margin:0 0 8px;">Playmate 暫時無法啟動</p>' +
+      '<p style="color:#666;margin:0 0 16px;">錯誤代碼：' +
+      code +
+      '</p>' +
+      '<button type="button" id="boot-reload-btn" style="font-size:16px;padding:12px 20px;border-radius:999px;border:none;background:#7C3AED;color:#fff;">重新載入</button>' +
+      '</div>';
+    var btn = document.getElementById('boot-reload-btn');
+    if (btn) {
+      btn.addEventListener('click', function () {
+        var count = 0;
+        try {
+          count = parseInt(sessionStorage.getItem(BOOT_RELOAD_KEY) || '0', 10) || 0;
+        } catch (e) {}
+        if (count >= 3) return;
+        try {
+          sessionStorage.setItem(BOOT_RELOAD_KEY, String(count + 1));
+        } catch (e2) {}
+        window.location.reload();
+      });
     }
-    if ('caches' in window) {
-      tasks.push(
-        caches.keys().then(function (keys) {
-          return Promise.all(keys.map(function (key) { return caches.delete(key); }));
-        }),
-      );
-    }
-    return Promise.all(tasks);
   }
 
-  try {
-    var stored = localStorage.getItem(STORAGE_KEY);
-    if (stored && stored !== BUILD_ID) {
-      if (sessionStorage.getItem(RELOAD_KEY) === BUILD_ID) {
-        localStorage.setItem(STORAGE_KEY, BUILD_ID);
-        sessionStorage.removeItem(RELOAD_KEY);
-      } else {
-        clearRuntimeCaches().then(function () {
-          localStorage.setItem(STORAGE_KEY, BUILD_ID);
-          sessionStorage.setItem(RELOAD_KEY, BUILD_ID);
-          reloadOnce();
-        });
-        return;
-      }
-    } else {
-      localStorage.setItem(STORAGE_KEY, BUILD_ID);
+  window.addEventListener('error', function (event) {
+    if (event.error) {
+      console.error('[boot-fallback] uncaught error:', event.error);
     }
-  } catch (error) {
-    console.warn('[PWA bootstrap] migration skipped:', error);
-  }
+  });
 
-  if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.addEventListener('controllerchange', reloadOnce);
-    navigator.serviceWorker.addEventListener('message', function (event) {
-      if (event.data && event.data.type === 'SW_ACTIVATED_RELOAD') reloadOnce();
-    });
-  }
+  window.addEventListener('unhandledrejection', function (event) {
+    console.error('[boot-fallback] unhandled rejection:', event.reason);
+  });
+
+  setTimeout(function () {
+    var root = document.getElementById('root');
+    var fallback = document.getElementById('boot-fallback');
+    var mounted = root && root.querySelector('[data-testid="app-shell"]');
+    if (!mounted && fallback) {
+      showBootFailure('BOOT_TIMEOUT_' + BUILD_ID);
+    }
+  }, BOOT_TIMEOUT_MS);
 })();</script>
   </body>
 </html>
